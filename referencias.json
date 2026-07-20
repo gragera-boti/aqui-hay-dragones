@@ -9,8 +9,9 @@
           "author": "Johann Sebastian Bach",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=El+clave+bien+temperado+Johann+Sebastian+Bach&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Das_Wohltemperirte_Clavier_titlepage_2.jpg/440px-Das_Wohltemperirte_Clavier_titlepage_2.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Das_Wohltemperirte_Clavier_titlepage_2.jpg/440px-Das_Wohltemperirte_Clavier_titlepage_2.jpg"
         },
         {
           "id": 1,
@@ -18,8 +19,9 @@
           "author": "Johann Sebastian Bach",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Conciertos+de+Brandeburgo+Johann+Sebastian+Bach&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J._Jakob_Ihle_%28attr%29_%E2%80%93_J.S._Bach_as_C%C3%B6then_Court_Kapellmeister_%281717-23%29.jpg/440px-J._Jakob_Ihle_%28attr%29_%E2%80%93_J.S._Bach_as_C%C3%B6then_Court_Kapellmeister_%281717-23%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/J._Jakob_Ihle_%28attr%29_%E2%80%93_J.S._Bach_as_C%C3%B6then_Court_Kapellmeister_%281717-23%29.jpg/440px-J._Jakob_Ihle_%28attr%29_%E2%80%93_J.S._Bach_as_C%C3%B6then_Court_Kapellmeister_%281717-23%29.jpg"
         },
         {
           "id": 2,
@@ -27,8 +29,9 @@
           "author": "AC/DC",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Back+in+Black+AC/DC&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ACDC_Back_in_Black.png/440px-ACDC_Back_in_Black.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ACDC_Back_in_Black.png/440px-ACDC_Back_in_Black.png"
         },
         {
           "id": 3,
@@ -36,8 +39,9 @@
           "author": "Antonio Mercero",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=La+cabina+Antonio+Mercero&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cabina_mercero_1.jpg/440px-Cabina_mercero_1.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cabina_mercero_1.jpg/440px-Cabina_mercero_1.jpg"
         },
         {
           "id": 4,
@@ -46,7 +50,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Última+llamada+Larry+Cohen&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 5,
@@ -54,8 +59,9 @@
           "author": "Larry Cohen",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Phone+Booth+Larry+Cohen&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Phone_Booth_movie.jpg",
+          "desc": "",
+          "cover": "covers/Phone_Booth_movie.jpg"
         },
         {
           "id": 6,
@@ -64,7 +70,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=El+chofer+de+la+señora+No+identificado&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 7,
@@ -73,7 +80,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=El+chofer+de+la+cientista+No+identificado&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         }
       ]
     },
@@ -86,8 +94,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 9,
@@ -95,8 +104,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Ayurveda&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Agnihotra.jpeg/440px-Agnihotra.jpeg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Agnihotra.jpeg/440px-Agnihotra.jpeg"
         }
       ]
     },
@@ -109,8 +119,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 11,
@@ -118,8 +129,9 @@
           "author": "Jimmy Fallon",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=The+Tonight+Show+Starring+Jimmy+Fallon+Jimmy+Fallon&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/28/TSSJF_Logo.png",
+          "desc": "",
+          "cover": "covers/TSSJF_Logo.png"
         },
         {
           "id": 12,
@@ -127,8 +139,9 @@
           "author": "Duke Ellington",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Duke+Ellington+Duke+Ellington&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/440px-Duke_Ellington_-_publicity.JPG",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/440px-Duke_Ellington_-_publicity.JPG"
         },
         {
           "id": 13,
@@ -136,8 +149,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Rosa+Parks&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/440px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/440px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg"
         },
         {
           "id": 14,
@@ -145,8 +159,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Buzz+Aldrin&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/440px-Buzz_Aldrin.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/440px-Buzz_Aldrin.jpg"
         },
         {
           "id": 15,
@@ -154,8 +169,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Neil+Armstrong&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/FirstManCover.jpg",
+          "desc": "",
+          "cover": "covers/FirstManCover.jpg"
         },
         {
           "id": 16,
@@ -163,8 +179,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Michael+Collins&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Michael_collins_dvd.jpg",
+          "desc": "",
+          "cover": "covers/Michael_collins_dvd.jpg"
         }
       ]
     },
@@ -177,8 +194,9 @@
           "author": "André Carcho",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Viking+André+Carcho&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Viking_film.jpg/440px-The_Viking_film.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Viking_film.jpg/440px-The_Viking_film.jpg"
         },
         {
           "id": 18,
@@ -186,8 +204,9 @@
           "author": "Sun Tzu",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+arte+de+la+guerra+Sun+Tzu&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OlmosArtep32r.jpg/440px-OlmosArtep32r.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OlmosArtep32r.jpg/440px-OlmosArtep32r.jpg"
         },
         {
           "id": 19,
@@ -195,8 +214,9 @@
           "author": "William Shakespeare",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Julio+César+William+Shakespeare&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cesar_Aira_Wikipedia.jpg",
+          "desc": "",
+          "cover": "covers/Cesar_Aira_Wikipedia.jpg"
         },
         {
           "id": 20,
@@ -204,8 +224,9 @@
           "author": "Wolfgang Amadeus Mozart",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Mozart+Wolfgang+Amadeus+Mozart&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg/440px-Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg/440px-Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg"
         }
       ]
     },
@@ -218,8 +239,9 @@
           "author": "",
           "category": "🎮",
           "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg",
+          "desc": "",
+          "cover": "covers/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg"
         },
         {
           "id": 22,
@@ -227,8 +249,9 @@
           "author": "Aqua",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Barbie+Girl+Aqua&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Aquabarbie.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/4/4c/Aquabarbie.jpg"
         },
         {
           "id": 23,
@@ -236,8 +259,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Vistas+lober&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg/440px-Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg/440px-Chris_Hardwick_%26_Jason_Momoa_%2835368589944%29_%28cropped%29.jpg"
         },
         {
           "id": 24,
@@ -245,8 +269,9 @@
           "author": "Joe Pesci",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Joe+Pesci+Joe+Pesci&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/440px-JoePesci-2009.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JoePesci-2009.jpg/440px-JoePesci-2009.jpg"
         },
         {
           "id": 25,
@@ -254,8 +279,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=PIN+Martini&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Whodunnit_ABC.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/3/3c/Whodunnit_ABC.jpg"
         }
       ]
     },
@@ -268,8 +294,9 @@
           "author": "Mitología griega",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Zeus+Mitología+griega&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Kaos_%28TV_series%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Kaos_%28TV_series%29.jpg"
         },
         {
           "id": 27,
@@ -277,8 +304,9 @@
           "author": "Mitología griega",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Hera+Mitología+griega&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Hera_Pheri_2000_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Hera_Pheri_2000_poster.jpg"
         },
         {
           "id": 28,
@@ -286,8 +314,9 @@
           "author": "Mitología griega",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Leto+Mitología+griega&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Leto_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/d/d5/Leto_poster.jpg"
         },
         {
           "id": 29,
@@ -295,8 +324,9 @@
           "author": "Mitología griega",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Dánae+Mitología+griega&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/S%C5%8Ds%C5%8D_no_Frieren_logo.png/440px-S%C5%8Ds%C5%8D_no_Frieren_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/S%C5%8Ds%C5%8D_no_Frieren_logo.png/440px-S%C5%8Ds%C5%8D_no_Frieren_logo.png"
         },
         {
           "id": 30,
@@ -304,8 +334,9 @@
           "author": "Pablo Picasso",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Pablo+Picasso+Pablo+Picasso&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Genius_US_series_title_card.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/d/d0/Genius_US_series_title_card.png"
         },
         {
           "id": 31,
@@ -313,8 +344,9 @@
           "author": "Pepe Isbert",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Pepe+Isbert+Pepe+Isbert&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Celia_TVE.jpg/440px-Celia_TVE.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Celia_TVE.jpg/440px-Celia_TVE.jpg"
         },
         {
           "id": 32,
@@ -322,8 +354,9 @@
           "author": "Joaquín Sabina",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=300+días+y+noches+Joaquín+Sabina&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Buenos_D%C3%ADas_Per%C3%BA_del_2022.png/440px-Logo_de_Buenos_D%C3%ADas_Per%C3%BA_del_2022.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_de_Buenos_D%C3%ADas_Per%C3%BA_del_2022.png/440px-Logo_de_Buenos_D%C3%ADas_Per%C3%BA_del_2022.png"
         }
       ]
     },
@@ -336,8 +369,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 34,
@@ -345,8 +379,9 @@
           "author": "Wolfgang Amadeus Mozart",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Mozart+Wolfgang+Amadeus+Mozart&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg/440px-Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg/440px-Franz_Xaver_Mozart_%28Wolfgang_Jr%29_1825.jpg"
         },
         {
           "id": 35,
@@ -354,8 +389,9 @@
           "author": "Joan Manuel Serrat",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Serrat+Joan+Manuel+Serrat&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg/440px-Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg/440px-Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg"
         },
         {
           "id": 36,
@@ -363,8 +399,9 @@
           "author": "Pharrell Williams",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Happy+Pharrell+Williams&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Pharrell_Williams_-_Happy.jpg",
+          "desc": "",
+          "cover": "covers/Pharrell_Williams_-_Happy.jpg"
         },
         {
           "id": 37,
@@ -372,8 +409,9 @@
           "author": "Bob Dylan",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Like+a+Rolling+Stone+Bob+Dylan&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Like_a_rolling_stone_by_bob_dylan_us_vinyl_side_a.png/440px-Like_a_rolling_stone_by_bob_dylan_us_vinyl_side_a.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Like_a_rolling_stone_by_bob_dylan_us_vinyl_side_a.png/440px-Like_a_rolling_stone_by_bob_dylan_us_vinyl_side_a.png"
         },
         {
           "id": 38,
@@ -381,8 +419,9 @@
           "author": "Nirvana",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Smells+Like+Teen+Spirit+Nirvana&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Smells_Like_Teen_Spirit.jpg",
+          "desc": "",
+          "cover": "covers/Smells_Like_Teen_Spirit.jpg"
         },
         {
           "id": 39,
@@ -391,7 +430,8 @@
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Saber+qué+vendrá&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 40,
@@ -399,8 +439,9 @@
           "author": "Bob Dylan",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Blowin'+in+the+Wind+Bob+Dylan&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Blowin%27_In_the_Wind_single_label.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/b/bb/Blowin%27_In_the_Wind_single_label.png"
         },
         {
           "id": 41,
@@ -408,8 +449,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Peter,+Paul+and+Mary&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Project_Hail_Mary_poster.jpg",
+          "desc": "",
+          "cover": "covers/Project_Hail_Mary_poster.jpg"
         }
       ]
     },
@@ -422,8 +464,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Destino+final&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/ad/The_Power_of_Destiny.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/ad/The_Power_of_Destiny.jpg"
         },
         {
           "id": 43,
@@ -431,8 +474,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=José+Belis&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Menudo_La_Pel%C3%ADcula_poster.jpg",
+          "desc": "",
+          "cover": "covers/Menudo_La_Pel%C3%ADcula_poster.jpg"
         }
       ]
     },
@@ -445,8 +489,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 45,
@@ -454,8 +499,9 @@
           "author": "Jorge Luis Borges",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=La+rosa+de+Paracelso+Jorge+Luis+Borges&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jorge_Luis_Borges.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jorge_Luis_Borges.jpg"
         }
       ]
     },
@@ -468,8 +514,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 47,
@@ -477,8 +524,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Batman&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg"
         },
         {
           "id": 48,
@@ -486,8 +534,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Los+siete+magníficos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Magnificent_Seven_%281960_poster%29.jpg/440px-The_Magnificent_Seven_%281960_poster%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Magnificent_Seven_%281960_poster%29.jpg/440px-The_Magnificent_Seven_%281960_poster%29.jpg"
         },
         {
           "id": 49,
@@ -495,8 +544,9 @@
           "author": "Bad Bunny",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Bad+Bunny+Bad+Bunny&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/440px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/440px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg"
         },
         {
           "id": 50,
@@ -504,8 +554,9 @@
           "author": "Fernando de Rojas",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=La+Celestina+Fernando+de+Rojas&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernando_de_Rojas.jpg/440px-Fernando_de_Rojas.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fernando_de_Rojas.jpg/440px-Fernando_de_Rojas.jpg"
         }
       ]
     },
@@ -518,8 +569,9 @@
           "author": "Hermanas Wachowski",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Matrix+Hermanas+Wachowski&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Matrix_%28Lauren_Groff%29.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/af/Matrix_%28Lauren_Groff%29.png"
         },
         {
           "id": 52,
@@ -527,8 +579,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 53,
@@ -536,8 +589,9 @@
           "author": "Agatha Christie",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Los+10+negritos+Agatha+Christie&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/HandOfGodS2.png/440px-HandOfGodS2.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/HandOfGodS2.png/440px-HandOfGodS2.png"
         }
       ]
     },
@@ -550,8 +604,9 @@
           "author": "Oliver Stone",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Nacido+el+cuatro+de+julio+Oliver+Stone&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ron_Kovic_2.JPG/440px-Ron_Kovic_2.JPG",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ron_Kovic_2.JPG/440px-Ron_Kovic_2.JPG"
         },
         {
           "id": 55,
@@ -559,8 +614,9 @@
           "author": "Ralph Ellison",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+hombre+invisible+Ralph+Ellison&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_Invisible_Man_%282020_film%29_-_release_poster.jpg",
+          "desc": "",
+          "cover": "covers/The_Invisible_Man_%282020_film%29_-_release_poster.jpg"
         },
         {
           "id": 56,
@@ -568,8 +624,9 @@
           "author": "Truman Capote",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=A+Sangre+Fría+Truman+Capote&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sangrefriaposter.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/a5/Sangrefriaposter.jpg"
         },
         {
           "id": 57,
@@ -577,8 +634,9 @@
           "author": "Mario Puzo",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+Padrino+Mario+Puzo&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/7/73/El_Padrino.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/7/73/El_Padrino.jpg"
         },
         {
           "id": 58,
@@ -586,8 +644,9 @@
           "author": "Gabriel García Márquez",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cien+años+de+soledad+Gabriel+García+Márquez&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg"
         },
         {
           "id": 59,
@@ -595,8 +654,9 @@
           "author": "George Plimpton",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Paris+Review+George+Plimpton&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/George_Plimpton_%28cropped%29.jpg/440px-George_Plimpton_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/George_Plimpton_%28cropped%29.jpg/440px-George_Plimpton_%28cropped%29.jpg"
         },
         {
           "id": 60,
@@ -604,8 +664,9 @@
           "author": "The Miracles",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Mickey's+Monkey+The+Miracles&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Mickey%27s_Monkey_%28song%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/16/Mickey%27s_Monkey_%28song%29.jpg"
         },
         {
           "id": 61,
@@ -613,8 +674,9 @@
           "author": "Stephen King",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Stephen+King+Stephen+King&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Under_the_Dome_%28Amblin_Television%29_logo.svg/440px-Under_the_Dome_%28Amblin_Television%29_logo.svg.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Under_the_Dome_%28Amblin_Television%29_logo.svg/440px-Under_the_Dome_%28Amblin_Television%29_logo.svg.png"
         }
       ]
     },
@@ -627,8 +689,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 63,
@@ -636,8 +699,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Carioca&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Avenida_brasil_logo.jpeg/440px-Avenida_brasil_logo.jpeg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Avenida_brasil_logo.jpeg/440px-Avenida_brasil_logo.jpeg"
         },
         {
           "id": 64,
@@ -646,7 +710,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Cacahuetes+ligeramente+salados&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 65,
@@ -654,8 +719,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=La+conquista+de+América&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/440px-Club_Am%C3%A9rica_crest.svg.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/440px-Club_Am%C3%A9rica_crest.svg.png"
         },
         {
           "id": 66,
@@ -663,8 +729,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Sacrificios+humanos+en+América&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Azteken-Menschenopfer.jpg/440px-Azteken-Menschenopfer.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Azteken-Menschenopfer.jpg/440px-Azteken-Menschenopfer.jpg"
         },
         {
           "id": 67,
@@ -672,8 +739,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cultura+maya&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Cultura_%28Breed_77_album_-_cover_art%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/Cultura_%28Breed_77_album_-_cover_art%29.jpg"
         },
         {
           "id": 68,
@@ -682,7 +750,8 @@
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cultura+azteca&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 69,
@@ -691,7 +760,8 @@
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cultura+inca&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 70,
@@ -699,8 +769,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cenotes&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/The_Americas_title_card.PNG/440px-The_Americas_title_card.PNG",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/The_Americas_title_card.PNG/440px-The_Americas_title_card.PNG"
         },
         {
           "id": 71,
@@ -708,8 +779,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Capacocha&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG/440px-The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG/440px-The_replica_of_the_plomo_mummy_at_the_Museo_Nacional_de_Historia_Natural_in_Sangtiago_Chile_2009_May_24.JPG"
         }
       ]
     },
@@ -722,8 +794,9 @@
           "author": "Leyenda alemana",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Doppelgänger+Leyenda+alemana&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Doppelg%C3%A4nger._Sobowt%C3%B3r.jpg",
+          "desc": "",
+          "cover": "covers/Doppelg%C3%A4nger._Sobowt%C3%B3r.jpg"
         },
         {
           "id": 73,
@@ -732,7 +805,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Salvar+al+soldado+Ryan+Steven+Spielberg&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 74,
@@ -741,7 +815,8 @@
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Billy+Millin+Billy+Millin&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         }
       ]
     },
@@ -754,8 +829,9 @@
           "author": "George Lucas",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Star+Wars:+Una+nueva+esperanza+George+Lucas&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/langes-330px-Star_wars_1977_us.svg.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_wars_1977_us.svg/langes-330px-Star_wars_1977_us.svg.png"
         },
         {
           "id": 76,
@@ -763,8 +839,9 @@
           "author": "Francis Ford Coppola",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=El+padrino+Francis+Ford+Coppola&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/7/73/El_Padrino.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/7/73/El_Padrino.jpg"
         },
         {
           "id": 77,
@@ -773,7 +850,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Alien,+el+octavo+pasajero+Ridley+Scott&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 78,
@@ -781,8 +859,9 @@
           "author": "Jacques Tati",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Las+vacaciones+de+Monsieur+Hulot+Jacques+Tati&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Les_Vacances_de_Monsieur_Hulot_title.jpg/440px-Les_Vacances_de_Monsieur_Hulot_title.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Les_Vacances_de_Monsieur_Hulot_title.jpg/440px-Les_Vacances_de_Monsieur_Hulot_title.jpg"
         }
       ]
     },
@@ -796,7 +875,8 @@
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+humor+en+el+Antiguo+Testamento+Desconocido&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 80,
@@ -804,8 +884,9 @@
           "author": "Desconocido",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Marina+Armenia+Desconocido&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravished_Armenia.jpg/440px-Ravished_Armenia.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ravished_Armenia.jpg/440px-Ravished_Armenia.jpg"
         }
       ]
     },
@@ -818,8 +899,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=John+Wayne&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/440px-John_Wayne_-_still_portrait.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_Wayne_-_still_portrait.jpg/440px-John_Wayne_-_still_portrait.jpg"
         },
         {
           "id": 82,
@@ -827,8 +909,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Tortugas+Ninja&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Teenage_Mutant_Ninja_Turtles_film_July_2014_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Teenage_Mutant_Ninja_Turtles_film_July_2014_poster.jpg"
         },
         {
           "id": 83,
@@ -836,8 +919,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Rafa+Nadal&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Rafa_Nadal_Tennis.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/e/e3/Rafa_Nadal_Tennis.jpg"
         },
         {
           "id": 84,
@@ -845,8 +929,9 @@
           "author": "",
           "category": "🎮",
           "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg",
+          "desc": "",
+          "cover": "covers/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg"
         },
         {
           "id": 85,
@@ -854,8 +939,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Joy+Division&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Joy_Division_promo_photo.jpg/440px-Joy_Division_promo_photo.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Joy_Division_promo_photo.jpg/440px-Joy_Division_promo_photo.jpg"
         },
         {
           "id": 86,
@@ -863,8 +949,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Harry+Connick+Jr.&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Harry_Connick_Jr_2024.jpg/440px-Harry_Connick_Jr_2024.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Harry_Connick_Jr_2024.jpg/440px-Harry_Connick_Jr_2024.jpg"
         },
         {
           "id": 87,
@@ -872,8 +959,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Flashdance&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fatal_Attraction_%282023_TV_series_logo%29.png/440px-Fatal_Attraction_%282023_TV_series_logo%29.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fatal_Attraction_%282023_TV_series_logo%29.png/440px-Fatal_Attraction_%282023_TV_series_logo%29.png"
         },
         {
           "id": 88,
@@ -881,8 +969,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Tom+Jones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Poster_-_Tom_Jones_01.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/c/ca/Poster_-_Tom_Jones_01.jpg"
         },
         {
           "id": 89,
@@ -890,8 +979,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Bossa+Nova&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Bossa-nova-poster02.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/13/Bossa-nova-poster02.jpg"
         },
         {
           "id": 90,
@@ -899,8 +989,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Pablo+Carbonell&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pablo_Carbonell.jpg/440px-Pablo_Carbonell.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pablo_Carbonell.jpg/440px-Pablo_Carbonell.jpg"
         },
         {
           "id": 91,
@@ -908,8 +999,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Carlos+Jean&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Carlos_Jean.jpg",
+          "desc": "",
+          "cover": "covers/Carlos_Jean.jpg"
         }
       ]
     },
@@ -922,8 +1014,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 93,
@@ -931,8 +1024,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Javier+Cansado&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Javier_Cansado-ene_2019.jpg/440px-Javier_Cansado-ene_2019.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Javier_Cansado-ene_2019.jpg/440px-Javier_Cansado-ene_2019.jpg"
         },
         {
           "id": 94,
@@ -940,8 +1034,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Yukika&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yukika_Teramoto_2019-03-22.jpg/440px-Yukika_Teramoto_2019-03-22.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yukika_Teramoto_2019-03-22.jpg/440px-Yukika_Teramoto_2019-03-22.jpg"
         },
         {
           "id": 95,
@@ -949,8 +1044,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Arturo+González+Campos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arturo_Gonz%C3%A1lez-Campos.jpg/440px-Arturo_Gonz%C3%A1lez-Campos.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arturo_Gonz%C3%A1lez-Campos.jpg/440px-Arturo_Gonz%C3%A1lez-Campos.jpg"
         }
       ]
     },
@@ -963,8 +1059,9 @@
           "author": "Rodrigo Cortés",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Rodrigo+Cortés&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 97,
@@ -972,8 +1069,9 @@
           "author": "Tim Fywell",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Ice+Princess+Tim+Fywell&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/Ice_Princess.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/ab/Ice_Princess.jpg"
         },
         {
           "id": 98,
@@ -982,7 +1080,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Soñando,+soñando,+triunfó+patinando+Tim+Fywell&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 99,
@@ -990,8 +1089,9 @@
           "author": "Disney",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Mulan+Disney&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg"
         },
         {
           "id": 100,
@@ -999,8 +1099,9 @@
           "author": "James Cameron",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Titanic+James+Cameron&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg/440px-James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg/440px-James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg"
         },
         {
           "id": 101,
@@ -1008,8 +1109,9 @@
           "author": "Tom Hooper",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Los+Miserables+Tom+Hooper&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tom_Hooper_HIFF_2010_%282%29.jpg/440px-Tom_Hooper_HIFF_2010_%282%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tom_Hooper_HIFF_2010_%282%29.jpg/440px-Tom_Hooper_HIFF_2010_%282%29.jpg"
         },
         {
           "id": 102,
@@ -1017,8 +1119,9 @@
           "author": "Jim Abrahams, David Zucker, Jerry Zucker",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Airplane!+Jim+Abrahams,+David+Zucker,+Jerry+Zucker&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Airplane_Mode_2019_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/6/60/Airplane_Mode_2019_poster.jpg"
         },
         {
           "id": 103,
@@ -1026,8 +1129,9 @@
           "author": "Jim Abrahams, David Zucker, Jerry Zucker",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=¿Dónde+está+el+piloto?+Jim+Abrahams,+David+Zucker,+Jerry+Zucker&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Where_Are_You_My_Love.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Where_Are_You_My_Love.jpg"
         },
         {
           "id": 104,
@@ -1035,8 +1139,9 @@
           "author": "Ridley Scott",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Thelma+&+Louise+Ridley+Scott&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Thelma_%26_Louise_poster.png",
+          "desc": "",
+          "cover": "covers/Thelma_%26_Louise_poster.png"
         }
       ]
     },
@@ -1049,8 +1154,9 @@
           "author": "Podcast español",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 106,
@@ -1058,8 +1164,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Batman&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg"
         },
         {
           "id": 107,
@@ -1067,8 +1174,9 @@
           "author": "Stephen King (novela original)",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Cujo+Stephen+King+(novela+original)&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/CujoVHScover.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/8/8a/CujoVHScover.jpg"
         },
         {
           "id": 108,
@@ -1076,8 +1184,9 @@
           "author": "Melendi",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Melendi+Melendi&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Melendi_Guayaquil_2017.jpg/440px-Melendi_Guayaquil_2017.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Melendi_Guayaquil_2017.jpg/440px-Melendi_Guayaquil_2017.jpg"
         },
         {
           "id": 109,
@@ -1085,8 +1194,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Petra&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Petra_%28film%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/f/f9/Petra_%28film%29.jpg"
         }
       ]
     },
@@ -1099,8 +1209,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 111,
@@ -1108,8 +1219,9 @@
           "author": "Marvel",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Vengadores:+Infinity+War+Marvel&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg"
         },
         {
           "id": 112,
@@ -1117,8 +1229,9 @@
           "author": "Thomas Malthus",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Thomas+Malthus+Thomas+Malthus&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/440px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/440px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg"
         },
         {
           "id": 113,
@@ -1126,8 +1239,9 @@
           "author": "Thomas Malthus",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Ensayo+sobre+el+principio+de+la+población+Thomas+Malthus&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malthus_-_Essay_on_the_principle_of_population%2C_1826_-_5884843.tif/lossy-page1-330px-Malthus_-_Essay_on_the_principle_of_population%2C_1826_-_5884843.tif.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malthus_-_Essay_on_the_principle_of_population%2C_1826_-_5884843.tif/lossy-page1-330px-Malthus_-_Essay_on_the_principle_of_population%2C_1826_-_5884843.tif.jpg"
         },
         {
           "id": 114,
@@ -1135,8 +1249,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Yo+sí,+yo+sí&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Inna_Yo_Album_Cover.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/5/5e/Inna_Yo_Album_Cover.png"
         }
       ]
     },
@@ -1149,8 +1264,9 @@
           "author": "Mecano",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Hijo+de+la+luna+Mecano&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Hijo_de_la_luna.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/2/2e/Hijo_de_la_luna.jpg"
         },
         {
           "id": 116,
@@ -1158,8 +1274,9 @@
           "author": "Mecano",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Amigo+Mecano&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/AMIGO_Poster_Theatrical.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/f/fe/AMIGO_Poster_Theatrical.jpg"
         },
         {
           "id": 117,
@@ -1167,8 +1284,9 @@
           "author": "Bruce Springsteen",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Nebraska+Bruce+Springsteen&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SpringsteenCardiff050524_%28150_of_166%29_%2853705047456%29.jpg/440px-SpringsteenCardiff050524_%28150_of_166%29_%2853705047456%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SpringsteenCardiff050524_%28150_of_166%29_%2853705047456%29.jpg/440px-SpringsteenCardiff050524_%28150_of_166%29_%2853705047456%29.jpg"
         },
         {
           "id": 118,
@@ -1177,7 +1295,8 @@
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Sevillanas+Billy+Mártires+del+Compás&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 119,
@@ -1185,8 +1304,9 @@
           "author": "Federico García Lorca",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Poeta+en+Nueva+York+Federico+García+Lorca&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg/440px-Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg/440px-Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg"
         }
       ]
     },
@@ -1199,8 +1319,9 @@
           "author": "Javier Cansado, Juan Gómez-Jurado, Rodrigo Cortés, Arturo González-Campos",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Javier+Cansado,+Juan+Gómez-Jurado,+Rodrigo+Cortés,+Arturo+González-Campos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 121,
@@ -1208,8 +1329,9 @@
           "author": "",
           "category": "🎮",
           "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg",
+          "desc": "",
+          "cover": "covers/Rock%2C_Paper%2C_Scissors_%282012_film%29_poster.jpg"
         },
         {
           "id": 122,
@@ -1217,8 +1339,9 @@
           "author": "",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Época+victoriana&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Queen_Victoria_60._crownjubilee.jpg/440px-Queen_Victoria_60._crownjubilee.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Queen_Victoria_60._crownjubilee.jpg/440px-Queen_Victoria_60._crownjubilee.jpg"
         },
         {
           "id": 123,
@@ -1226,8 +1349,9 @@
           "author": "Robert Cornelius",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Robert+Cornelius+Robert+Cornelius&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Fantasma_album.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/13/Fantasma_album.png"
         },
         {
           "id": 124,
@@ -1235,8 +1359,9 @@
           "author": "Auguste y Louis Lumière",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Hermanos+Lumière+Auguste+y+Louis+Lumière&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fratelli_Lumiere.jpg/440px-Fratelli_Lumiere.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fratelli_Lumiere.jpg/440px-Fratelli_Lumiere.jpg"
         },
         {
           "id": 125,
@@ -1244,8 +1369,9 @@
           "author": "Edwin Land",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Polaroid+Edwin+Land&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg/440px-Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg/440px-Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg"
         },
         {
           "id": 126,
@@ -1253,8 +1379,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Selfie&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Selfie_2022_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Selfie_2022_poster.jpg"
         }
       ]
     },
@@ -1267,8 +1394,9 @@
           "author": "Raoul Walsh",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=El+ladrón+de+Bagdad+Raoul+Walsh&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Thief_of_Bagdad_%281924%29_-_film_poster.jpg/440px-The_Thief_of_Bagdad_%281924%29_-_film_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Thief_of_Bagdad_%281924%29_-_film_poster.jpg/440px-The_Thief_of_Bagdad_%281924%29_-_film_poster.jpg"
         },
         {
           "id": 128,
@@ -1276,8 +1404,9 @@
           "author": "Anónimo (leyenda)",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Robin+Hood+Anónimo+(leyenda)&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Death_of_Robin_Hood_poster.jpeg",
+          "desc": "",
+          "cover": "covers/The_Death_of_Robin_Hood_poster.jpeg"
         },
         {
           "id": 129,
@@ -1285,8 +1414,9 @@
           "author": "Anónimo (adaptaciones)",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Robin+Hood+Anónimo+(adaptaciones)&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Death_of_Robin_Hood_poster.jpeg",
+          "desc": "",
+          "cover": "covers/The_Death_of_Robin_Hood_poster.jpeg"
         }
       ]
     },
@@ -1299,8 +1429,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 131,
@@ -1308,8 +1439,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Daniel+Rovira&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Perdiendo_el_juicio_%282025_TV_series%29_poster.jpg",
+          "desc": "",
+          "cover": "covers/Perdiendo_el_juicio_%282025_TV_series%29_poster.jpg"
         },
         {
           "id": 132,
@@ -1317,8 +1449,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Billie+Milling&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Billie_Holiday_%28album%29_cover.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Billie_Holiday_%28album%29_cover.jpg"
         },
         {
           "id": 133,
@@ -1326,8 +1459,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=23-F&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/Lindemann_-_F_%26_M_cover_art.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Lindemann_-_F_%26_M_cover_art.png"
         },
         {
           "id": 134,
@@ -1335,8 +1469,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Tower+Heist&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Tower-heist-movie-poster-hi-res-01-405x600.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/2/25/Tower-heist-movie-poster-hi-res-01-405x600.jpg"
         },
         {
           "id": 135,
@@ -1345,7 +1480,8 @@
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Tiro+Limpio&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         }
       ]
     },
@@ -1358,8 +1494,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 137,
@@ -1367,8 +1504,9 @@
           "author": "Miguel de Cervantes",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Don+Quijote+de+la+Mancha+Miguel+de+Cervantes&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/El_Quijote_de_Miguel_de_Cervantes_-_title_card.jpg/440px-El_Quijote_de_Miguel_de_Cervantes_-_title_card.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/El_Quijote_de_Miguel_de_Cervantes_-_title_card.jpg/440px-El_Quijote_de_Miguel_de_Cervantes_-_title_card.jpg"
         },
         {
           "id": 138,
@@ -1376,8 +1514,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Bravos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Los_Bravos.png/440px-Los_Bravos.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Los_Bravos.png/440px-Los_Bravos.png"
         },
         {
           "id": 139,
@@ -1385,8 +1524,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=The+Beatles&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TrailerUSHelp.jpg/440px-TrailerUSHelp.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TrailerUSHelp.jpg/440px-TrailerUSHelp.jpg"
         },
         {
           "id": 140,
@@ -1394,8 +1534,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=The+Rolling+Stones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/440px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/440px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg"
         },
         {
           "id": 141,
@@ -1403,8 +1544,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Salvajes&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Los_A%C3%B1os_Salvajes.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/c/cd/Los_A%C3%B1os_Salvajes.jpg"
         },
         {
           "id": 142,
@@ -1413,7 +1555,8 @@
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Syrex&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 143,
@@ -1421,8 +1564,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Brincos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Los_Brincos.jpg/440px-Los_Brincos.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Los_Brincos.jpg/440px-Los_Brincos.jpg"
         }
       ]
     },
@@ -1435,8 +1579,9 @@
           "author": "Podcast español",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 145,
@@ -1444,8 +1589,9 @@
           "author": "Terrence Malick",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Badlands+Terrence+Malick&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terrence_Malick%2C_1993.jpg/440px-Terrence_Malick%2C_1993.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Terrence_Malick%2C_1993.jpg/440px-Terrence_Malick%2C_1993.jpg"
         },
         {
           "id": 146,
@@ -1453,8 +1599,9 @@
           "author": "Carl Orff",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Carmina+Burana+Carl+Orff&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Fortuna_Wheel.jpg",
+          "desc": "",
+          "cover": "covers/Fortuna_Wheel.jpg"
         },
         {
           "id": 147,
@@ -1462,8 +1609,9 @@
           "author": "Hans Zimmer",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Hans+Zimmer+Hans+Zimmer&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/440px-Hans-Zimmer-profile.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hans-Zimmer-profile.jpg/440px-Hans-Zimmer-profile.jpg"
         },
         {
           "id": 148,
@@ -1472,7 +1620,8 @@
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=George+O'Coul+Hans+Zimmer&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 149,
@@ -1480,8 +1629,9 @@
           "author": "Enrique Rodríguez",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Enrique+Rodríguez+Enrique+Rodríguez&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Traqueticogilberticorodriguez.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Traqueticogilberticorodriguez.png"
         },
         {
           "id": 150,
@@ -1489,8 +1639,9 @@
           "author": "Armando Moreno",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Armando+Moreno+Armando+Moreno&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/From_title_card.jpg/440px-From_title_card.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/From_title_card.jpg/440px-From_title_card.jpg"
         },
         {
           "id": 151,
@@ -1498,8 +1649,9 @@
           "author": "Michael Nyman",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Michael+Nyman+Michael+Nyman&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Michael_Nyman.jpg/440px-Michael_Nyman.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Michael_Nyman.jpg/440px-Michael_Nyman.jpg"
         },
         {
           "id": 152,
@@ -1507,8 +1659,9 @@
           "author": "Johann Sebastian Bach",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Johann+Sebastian+Bach+Johann+Sebastian+Bach&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg"
         }
       ]
     },
@@ -1521,8 +1674,9 @@
           "author": "Gabriel García Márquez",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Cien+años+de+soledad+Gabriel+García+Márquez&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/a/a0/Cien_a%C3%B1os_de_soledad_%28book_cover%2C_1967%29.jpg"
         },
         {
           "id": 154,
@@ -1530,8 +1684,9 @@
           "author": "Gabriel García Márquez",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+coronel+no+tiene+quien+le+escriba+Gabriel+García+Márquez&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/32/El_coronel_no_tiene_quien_le_escriba.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/El_coronel_no_tiene_quien_le_escriba.jpg"
         },
         {
           "id": 155,
@@ -1539,8 +1694,9 @@
           "author": "Victor Hugo",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Los+Miserables+Victor+Hugo&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Los_miserables_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Los_miserables_poster.jpg"
         },
         {
           "id": 156,
@@ -1548,8 +1704,9 @@
           "author": "Michael Bay",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Michael+Bay+Michael+Bay&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MichaelBay08.jpg/440px-MichaelBay08.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MichaelBay08.jpg/440px-MichaelBay08.jpg"
         }
       ]
     },
@@ -1562,8 +1719,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 158,
@@ -1572,7 +1730,8 @@
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Morir+de+pie&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 159,
@@ -1581,7 +1740,8 @@
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Vivir+de+rodillas&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         },
         {
           "id": 160,
@@ -1589,8 +1749,9 @@
           "author": "Miguel Gila",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Gila+Miguel+Gila&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Premio_Ondas_Miguel_Gila_1993.jpg/440px-Premio_Ondas_Miguel_Gila_1993.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Premio_Ondas_Miguel_Gila_1993.jpg/440px-Premio_Ondas_Miguel_Gila_1993.jpg"
         },
         {
           "id": 161,
@@ -1598,8 +1759,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Igual,+igual,+contra+el...&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Nada_Es_Igual_%28Luis_Miguel_album%29_cover.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Nada_Es_Igual_%28Luis_Miguel_album%29_cover.jpg"
         },
         {
           "id": 162,
@@ -1607,8 +1769,9 @@
           "author": "George Lucas",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=La+guerra+de+las+galaxias+George+Lucas&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Guardians_of_the_Galaxy_Logo_Black.svg/langes-330px-Guardians_of_the_Galaxy_Logo_Black.svg.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Guardians_of_the_Galaxy_Logo_Black.svg/langes-330px-Guardians_of_the_Galaxy_Logo_Black.svg.png"
         },
         {
           "id": 163,
@@ -1616,8 +1779,9 @@
           "author": "J.R.R. Tolkien",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=El+señor+de+los+anillos+J.R.R.+Tolkien&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/El_Se%C3%B1or_de_los_Anillos_lectura.jpg/440px-El_Se%C3%B1or_de_los_Anillos_lectura.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/El_Se%C3%B1or_de_los_Anillos_lectura.jpg/440px-El_Se%C3%B1or_de_los_Anillos_lectura.jpg"
         },
         {
           "id": 164,
@@ -1625,8 +1789,9 @@
           "author": "Michel de Montaigne",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Montaigne+Michel+de+Montaigne&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg/440px-Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg/440px-Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg"
         },
         {
           "id": 165,
@@ -1634,8 +1799,9 @@
           "author": "Séneca",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Séneca+Séneca&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Curse_Coverart.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/d/df/Curse_Coverart.png"
         }
       ]
     },
@@ -1648,8 +1814,9 @@
           "author": "No mencionado",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+No+mencionado&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 167,
@@ -1657,8 +1824,9 @@
           "author": "No mencionado",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Follow+Me+No+mencionado&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/Follow_Me%21_1972_Film_Poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/Follow_Me%21_1972_Film_Poster.jpg"
         },
         {
           "id": 168,
@@ -1666,8 +1834,9 @@
           "author": "Pinkfong",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Baby+Shark+Pinkfong&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Baby_shark_dance%2C_Andersen.jpg/440px-Baby_shark_dance%2C_Andersen.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Baby_shark_dance%2C_Andersen.jpg/440px-Baby_shark_dance%2C_Andersen.jpg"
         },
         {
           "id": 169,
@@ -1675,8 +1844,9 @@
           "author": "William Friedkin",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=El+exorcista+William+Friedkin&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Exorcist_%281973%29_movie_logo.png/440px-The_Exorcist_%281973%29_movie_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Exorcist_%281973%29_movie_logo.png/440px-The_Exorcist_%281973%29_movie_logo.png"
         },
         {
           "id": 170,
@@ -1684,8 +1854,9 @@
           "author": "Yorgos Lanthimos",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=La+favorita+Yorgos+Lanthimos&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/9/94/La_Favorita.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/9/94/La_Favorita.jpg"
         },
         {
           "id": 171,
@@ -1693,8 +1864,9 @@
           "author": "Mel Brooks",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=La+loca+historia+del+mundo+Mel+Brooks&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Livin%27_la_vida_loca_cover.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/e/ed/Livin%27_la_vida_loca_cover.png"
         }
       ]
     },
@@ -1707,8 +1879,9 @@
           "author": "Podcast español",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 173,
@@ -1716,8 +1889,9 @@
           "author": "The Beatles",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Beatles+The+Beatles&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/440px-TheBeatles68LP.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/440px-TheBeatles68LP.jpg"
         },
         {
           "id": 174,
@@ -1725,8 +1899,9 @@
           "author": "Mocedades",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Mocedades+Mocedades&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mocedades_%281973%29.jpg/440px-Mocedades_%281973%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mocedades_%281973%29.jpg/440px-Mocedades_%281973%29.jpg"
         },
         {
           "id": 175,
@@ -1734,8 +1909,9 @@
           "author": "The Rolling Stones",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=The+Rolling+Stones+The+Rolling+Stones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/440px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg/440px-The_Rolling_Stones_Summerfest_in_Milwaukee_-_2015.jpg"
         },
         {
           "id": 176,
@@ -1743,8 +1919,9 @@
           "author": "Parchís",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Parchís+Parchís&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Parch%C3%ADs.svg/440px-Parch%C3%ADs.svg.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Parch%C3%ADs.svg/440px-Parch%C3%ADs.svg.png"
         },
         {
           "id": 177,
@@ -1752,8 +1929,9 @@
           "author": "Tom Petty",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Tom+Petty+Tom+Petty&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg/440px-Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg/440px-Tom_Petty_Live_in_Horsens_%28cropped2%29.jpg"
         },
         {
           "id": 178,
@@ -1761,8 +1939,9 @@
           "author": "Bob Dylan",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Bob+Dylan+Bob+Dylan&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Dylan_%281965%29.jpg/440px-Bob_Dylan_%281965%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Dylan_%281965%29.jpg/440px-Bob_Dylan_%281965%29.jpg"
         },
         {
           "id": 179,
@@ -1770,8 +1949,9 @@
           "author": "Peter, Paul and Mary",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Peter,+Paul+and+Mary+Peter,+Paul+and+Mary&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Project_Hail_Mary_poster.jpg",
+          "desc": "",
+          "cover": "covers/Project_Hail_Mary_poster.jpg"
         },
         {
           "id": 180,
@@ -1779,8 +1959,9 @@
           "author": "The Jackson 5",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Jackson+5+The+Jackson+5&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Jackson_5_1972.JPG/440px-The_Jackson_5_1972.JPG",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Jackson_5_1972.JPG/440px-The_Jackson_5_1972.JPG"
         },
         {
           "id": 181,
@@ -1788,8 +1969,9 @@
           "author": "Michael Jackson",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Michael+Jackson+Michael+Jackson&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/3/37/Michael_%282026_film_poster%29.png",
+          "desc": "",
+          "cover": "covers/Michael_%282026_film_poster%29.png"
         },
         {
           "id": 182,
@@ -1797,8 +1979,9 @@
           "author": "The Easybeats",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Friday+on+My+Mind+The+Easybeats&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Friday_on_My_Mind.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/1/16/Friday_on_My_Mind.jpg"
         },
         {
           "id": 183,
@@ -1806,8 +1989,9 @@
           "author": "Daniel Defoe",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Robinson+Crusoe+Daniel+Defoe&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Robinson_Crusoe_1719_1st_edition.jpg/440px-Robinson_Crusoe_1719_1st_edition.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Robinson_Crusoe_1719_1st_edition.jpg/440px-Robinson_Crusoe_1719_1st_edition.jpg"
         }
       ]
     },
@@ -1820,8 +2004,9 @@
           "author": "",
           "category": "📺",
           "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Quien_es_la_mascara_Argentina_logo.png/440px-Quien_es_la_mascara_Argentina_logo.png"
         },
         {
           "id": 185,
@@ -1829,8 +2014,9 @@
           "author": "",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Rodrigo+Cortés&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Premios_Goya_2019_-_Rodrigo_Cort%C3%A9s_%28cropped%29.jpg/440px-Premios_Goya_2019_-_Rodrigo_Cort%C3%A9s_%28cropped%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Premios_Goya_2019_-_Rodrigo_Cort%C3%A9s_%28cropped%29.jpg/440px-Premios_Goya_2019_-_Rodrigo_Cort%C3%A9s_%28cropped%29.jpg"
         },
         {
           "id": 186,
@@ -1838,8 +2024,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Luciano+Pavarotti&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Pavarotti_film_poster.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/c/cf/Pavarotti_film_poster.jpg"
         },
         {
           "id": 187,
@@ -1847,8 +2034,9 @@
           "author": "José Carreras, Plácido Domingo, Luciano Pavarotti",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Los+Tres+Tenores+José+Carreras,+Plácido+Domingo,+Luciano+Pavarotti&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%281928%29_Brecht_Dreigroschenoper.jpg/440px-%281928%29_Brecht_Dreigroschenoper.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%281928%29_Brecht_Dreigroschenoper.jpg/440px-%281928%29_Brecht_Dreigroschenoper.jpg"
         },
         {
           "id": 188,
@@ -1856,8 +2044,9 @@
           "author": "Giacomo Puccini",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Turandot+Giacomo+Puccini&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Princess_Turandot.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/5/5d/Princess_Turandot.jpg"
         },
         {
           "id": 189,
@@ -1865,8 +2054,9 @@
           "author": "Giacomo Puccini",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Nessun+dorma+Giacomo+Puccini&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg/440px-Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg/440px-Giacomo_Puccini_%281924%29_-_Archivio_Storico_Ricordi_FOTO003293_-_Restoration.jpg"
         },
         {
           "id": 190,
@@ -1874,8 +2064,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Bob+Dylan&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Dylan_%281965%29.jpg/440px-Bob_Dylan_%281965%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Dylan_%281965%29.jpg/440px-Bob_Dylan_%281965%29.jpg"
         },
         {
           "id": 191,
@@ -1883,8 +2074,9 @@
           "author": "",
           "category": "🎵",
           "amazon_url": "https://www.amazon.es/s?k=Wynton+Marsalis&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wynton_Marsalis_2009_09_13.jpg/440px-Wynton_Marsalis_2009_09_13.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wynton_Marsalis_2009_09_13.jpg/440px-Wynton_Marsalis_2009_09_13.jpg"
         }
       ]
     },
@@ -1898,7 +2090,8 @@
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Tauret&tag=gragera-20",
           "image": "",
-          "desc": ""
+          "desc": "",
+          "cover": null
         }
       ]
     },
@@ -1911,8 +2104,9 @@
           "author": "Tod Browning",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Drácula+Tod+Browning&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tod_Browning_1921.jpg/440px-Tod_Browning_1921.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tod_Browning_1921.jpg/440px-Tod_Browning_1921.jpg"
         },
         {
           "id": 194,
@@ -1920,8 +2114,9 @@
           "author": "Orson Welles",
           "category": "🎬",
           "amazon_url": "https://www.amazon.es/s?k=Ciudadano+Kane+Orson+Welles&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_Chespirito.jpeg/440px-Logo_Chespirito.jpeg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_Chespirito.jpeg/440px-Logo_Chespirito.jpeg"
         },
         {
           "id": 195,
@@ -1929,8 +2124,9 @@
           "author": "William Castle",
           "category": "📚",
           "amazon_url": "https://www.amazon.es/s?k=Not+for+Children+William+Castle&tag=gragera-20",
-          "image": "",
-          "desc": ""
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/William_Castle_%28with_Bug%29.jpg/440px-William_Castle_%28with_Bug%29.jpg",
+          "desc": "",
+          "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/William_Castle_%28with_Bug%29.jpg/440px-William_Castle_%28with_Bug%29.jpg"
         }
       ]
     }

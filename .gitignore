@@ -1,0 +1,12 @@
+# Audio files (too large for git)
+*.mp3
+*.wav
+*.flac
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

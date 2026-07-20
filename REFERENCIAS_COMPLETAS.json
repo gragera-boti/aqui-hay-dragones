@@ -1349,8 +1349,922 @@
           "amazon_url": "https://www.amazon.es/s?k=Not+for+Children+William+Castle&tag=gragera-20"
         }
       ]
+    },
+    {
+      "episode": "AHD 106 - De gazpacho trucos y memos",
+      "references": [
+        {
+          "title": "Carlos II el Hechizado",
+          "category": "📚",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Carlos+II+el+Hechizado&tag=gragera-20"
+        },
+        {
+          "title": "Doctor Gargantilla",
+          "category": "📚",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Doctor+Gargantilla&tag=gragera-20"
+        },
+        {
+          "title": "Barricada",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Barricada&tag=gragera-20"
+        },
+        {
+          "title": "El maní",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=El+maní&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 108 - De zanfoñas vástagos y comadrejas",
+      "references": [
+        {
+          "title": "2001: Una odisea del espacio",
+          "category": "🎬",
+          "author": "Stanley Kubrick",
+          "amazon_url": "https://www.amazon.es/s?k=2001:+Una+odisea+del+espacio+Stanley+Kubrick&tag=gragera-20"
+        },
+        {
+          "title": "Inception",
+          "category": "🎬",
+          "author": "Christopher Nolan",
+          "amazon_url": "https://www.amazon.es/s?k=Inception+Christopher+Nolan&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 110 - De tinieblas lenguas y martillos",
+      "references": [
+        {
+          "title": "El corazón de las tinieblas",
+          "category": "📚",
+          "author": "Joseph Conrad",
+          "amazon_url": "https://www.amazon.es/s?k=El+corazón+de+las+tinieblas+Joseph+Conrad&tag=gragera-20"
+        },
+        {
+          "title": "Shakespeare",
+          "category": "📚",
+          "author": "William Shakespeare",
+          "amazon_url": "https://www.amazon.es/s?k=Shakespeare+William+Shakespeare&tag=gragera-20"
+        },
+        {
+          "title": "Apocalypse Now",
+          "category": "🎬",
+          "author": "Francis Ford Coppola",
+          "amazon_url": "https://www.amazon.es/s?k=Apocalypse+Now+Francis+Ford+Coppola&tag=gragera-20"
+        },
+        {
+          "title": "Walter Mitty",
+          "category": "🎬",
+          "author": "James Thurber (original)",
+          "amazon_url": "https://www.amazon.es/s?k=Walter+Mitty+James+Thurber+(original)&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 112 - De sumarios pollitas y primeros pasos",
+      "references": [
+        {
+          "title": "Veinte mil leguas de viaje submarino",
+          "category": "📚",
+          "author": "Julio Verne",
+          "amazon_url": "https://www.amazon.es/s?k=Veinte+mil+leguas+de+viaje+submarino+Julio+Verne&tag=gragera-20"
+        },
+        {
+          "title": "Julio Verne",
+          "category": "📚",
+          "author": "Julio Verne",
+          "amazon_url": "https://www.amazon.es/s?k=Julio+Verne+Julio+Verne&tag=gragera-20"
+        },
+        {
+          "title": "Mansa Musa",
+          "category": "📚",
+          "author": "No mencionado",
+          "amazon_url": "https://www.amazon.es/s?k=Mansa+Musa+No+mencionado&tag=gragera-20"
+        },
+        {
+          "title": "Carlos II el Hechizado",
+          "category": "📚",
+          "author": "No mencionado",
+          "amazon_url": "https://www.amazon.es/s?k=Carlos+II+el+Hechizado+No+mencionado&tag=gragera-20"
+        },
+        {
+          "title": "Jorge Juan",
+          "category": "📚",
+          "author": "No mencionado",
+          "amazon_url": "https://www.amazon.es/s?k=Jorge+Juan+No+mencionado&tag=gragera-20"
+        },
+        {
+          "title": "Rozalén",
+          "category": "🎵",
+          "author": "Rozalén",
+          "amazon_url": "https://www.amazon.es/s?k=Rozalén+Rozalén&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 114 - De lexicones tejados y dudas",
+      "references": [
+        {
+          "title": "Astérix",
+          "category": "📖",
+          "author": "René Goscinny y Albert Uderzo",
+          "amazon_url": "https://www.amazon.es/s?k=Astérix+René+Goscinny+y+Albert+Uderzo&tag=gragera-20"
+        },
+        {
+          "title": "El mago de Oz",
+          "category": "🎬",
+          "author": "Victor Fleming",
+          "amazon_url": "https://www.amazon.es/s?k=El+mago+de+Oz+Victor+Fleming&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 116 - De cocinas respuestas y flautas",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Podcast español",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20"
+        },
+        {
+          "title": "Stainway & Sons",
+          "category": "🎵",
+          "author": "Henry Steinway",
+          "amazon_url": "https://www.amazon.es/s?k=Stainway+&+Sons+Henry+Steinway&tag=gragera-20"
+        },
+        {
+          "title": "Picasso",
+          "category": "🎬",
+          "author": "Pablo Picasso",
+          "amazon_url": "https://www.amazon.es/s?k=Picasso+Pablo+Picasso&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 118 - De pinceles yayos y cordobeses",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Programa de radio/podcast",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Programa+de+radio/podcast&tag=gragera-20"
+        },
+        {
+          "title": "Astérix",
+          "category": "📖",
+          "author": "René Goscinny y Albert Uderzo",
+          "amazon_url": "https://www.amazon.es/s?k=Astérix+René+Goscinny+y+Albert+Uderzo&tag=gragera-20"
+        },
+        {
+          "title": "Picasso",
+          "category": "🎵",
+          "author": "Pablo Picasso",
+          "amazon_url": "https://www.amazon.es/s?k=Picasso+Pablo+Picasso&tag=gragera-20"
+        },
+        {
+          "title": "Velázquez",
+          "category": "🎵",
+          "author": "Diego Velázquez",
+          "amazon_url": "https://www.amazon.es/s?k=Velázquez+Diego+Velázquez&tag=gragera-20"
+        },
+        {
+          "title": "Pierre Brasó",
+          "category": "🎬",
+          "author": "Artista ficticio",
+          "amazon_url": "https://www.amazon.es/s?k=Pierre+Brasó+Artista+ficticio&tag=gragera-20"
+        },
+        {
+          "title": "Salvador Dalí",
+          "category": "🎵",
+          "author": "Salvador Dalí",
+          "amazon_url": "https://www.amazon.es/s?k=Salvador+Dalí+Salvador+Dalí&tag=gragera-20"
+        },
+        {
+          "title": "Cadaqués",
+          "category": "🎵",
+          "author": "Canción de Salvador Dalí",
+          "amazon_url": "https://www.amazon.es/s?k=Cadaqués+Canción+de+Salvador+Dalí&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 120 - De colinas exabruptos y limones",
+      "references": [
+        {
+          "title": "La guerra de los 100 años",
+          "category": "📚",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=La+guerra+de+los+100+años&tag=gragera-20"
+        },
+        {
+          "title": "Rocky",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Rocky&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 122 - De hermanos consultas y primos",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Podcast español",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20"
+        },
+        {
+          "title": "Rodrigo Cortés",
+          "category": "🎬",
+          "author": "Rodrigo Cortés",
+          "amazon_url": "https://www.amazon.es/s?k=Rodrigo+Cortés+Rodrigo+Cortés&tag=gragera-20"
+        },
+        {
+          "title": "Tom Cruise",
+          "category": "🎬",
+          "author": "Tom Cruise",
+          "amazon_url": "https://www.amazon.es/s?k=Tom+Cruise+Tom+Cruise&tag=gragera-20"
+        },
+        {
+          "title": "The Jackson 5",
+          "category": "🎵",
+          "author": "The Jackson 5",
+          "amazon_url": "https://www.amazon.es/s?k=The+Jackson+5+The+Jackson+5&tag=gragera-20"
+        },
+        {
+          "title": "Los Hermanos",
+          "category": "🎵",
+          "author": "Los Hermanos",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Hermanos+Los+Hermanos&tag=gragera-20"
+        },
+        {
+          "title": "Los Chichos",
+          "category": "🎵",
+          "author": "Los Chichos",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Chichos+Los+Chichos&tag=gragera-20"
+        },
+        {
+          "title": "Los Chunguitos",
+          "category": "🎵",
+          "author": "Los Chunguitos",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Chunguitos+Los+Chunguitos&tag=gragera-20"
+        },
+        {
+          "title": "Los Calis",
+          "category": "🎵",
+          "author": "Los Calis",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Calis+Los+Calis&tag=gragera-20"
+        },
+        {
+          "title": "Los Hermanos Hermoso",
+          "category": "🎵",
+          "author": "Los Hermanos Hermoso",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Hermanos+Hermoso+Los+Hermanos+Hermoso&tag=gragera-20"
+        },
+        {
+          "title": "Los Brothers",
+          "category": "🎵",
+          "author": "Los Brothers",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Brothers+Los+Brothers&tag=gragera-20"
+        },
+        {
+          "title": "Los Hermanos Canuto",
+          "category": "🎵",
+          "author": "Los Hermanos Canuto",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Hermanos+Canuto+Los+Hermanos+Canuto&tag=gragera-20"
+        },
+        {
+          "title": "Los Hermanos Porro",
+          "category": "🎵",
+          "author": "Los Hermanos Porro",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Hermanos+Porro+Los+Hermanos+Porro&tag=gragera-20"
+        },
+        {
+          "title": "Los Hermanos Petra",
+          "category": "🎵",
+          "author": "Los Hermanos Petra",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Hermanos+Petra+Los+Hermanos+Petra&tag=gragera-20"
+        },
+        {
+          "title": "Los Dubios",
+          "category": "🎵",
+          "author": "Los Dubios",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Dubios+Los+Dubios&tag=gragera-20"
+        },
+        {
+          "title": "Los Vigis",
+          "category": "🎵",
+          "author": "Los Vigis",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Vigis+Los+Vigis&tag=gragera-20"
+        },
+        {
+          "title": "Los Jackson's Files",
+          "category": "🎵",
+          "author": "Los Jackson's Files",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Jackson's+Files+Los+Jackson's+Files&tag=gragera-20"
+        },
+        {
+          "title": "Supertramp",
+          "category": "🎵",
+          "author": "Supertramp",
+          "amazon_url": "https://www.amazon.es/s?k=Supertramp+Supertramp&tag=gragera-20"
+        },
+        {
+          "title": "Los Héroes del Dos de Mayo",
+          "category": "🎵",
+          "author": "Los Héroes del Dos de Mayo",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Héroes+del+Dos+de+Mayo+Los+Héroes+del+Dos+de+Mayo&tag=gragera-20"
+        },
+        {
+          "title": "Los Blues Brothers",
+          "category": "🎵",
+          "author": "Los Blues Brothers",
+          "amazon_url": "https://www.amazon.es/s?k=Los+Blues+Brothers+Los+Blues+Brothers&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 124 - De dedos globos y pistachos",
+      "references": [
+        {
+          "title": "Bob Dylan",
+          "category": "🎵",
+          "author": "Bob Dylan",
+          "amazon_url": "https://www.amazon.es/s?k=Bob+Dylan+Bob+Dylan&tag=gragera-20"
+        },
+        {
+          "title": "Yngwie Malmsteen",
+          "category": "🎵",
+          "author": "Yngwie Malmsteen",
+          "amazon_url": "https://www.amazon.es/s?k=Yngwie+Malmsteen+Yngwie+Malmsteen&tag=gragera-20"
+        },
+        {
+          "title": "Guitar Hero",
+          "category": "🎮",
+          "author": "Harmonix",
+          "amazon_url": "https://www.amazon.es/s?k=Guitar+Hero+Harmonix&tag=gragera-20"
+        },
+        {
+          "title": "Jan Akkerman",
+          "category": "🎵",
+          "author": "Jan Akkerman",
+          "amazon_url": "https://www.amazon.es/s?k=Jan+Akkerman+Jan+Akkerman&tag=gragera-20"
+        },
+        {
+          "title": "Steve Vai",
+          "category": "🎵",
+          "author": "Steve Vai",
+          "amazon_url": "https://www.amazon.es/s?k=Steve+Vai+Steve+Vai&tag=gragera-20"
+        },
+        {
+          "title": "Crossroads",
+          "category": "🎬",
+          "author": "Walter Hill",
+          "amazon_url": "https://www.amazon.es/s?k=Crossroads+Walter+Hill&tag=gragera-20"
+        },
+        {
+          "title": "Ralph Macchio",
+          "category": "🎬",
+          "author": null,
+          "amazon_url": "https://www.amazon.es/s?k=Ralph+Macchio&tag=gragera-20"
+        },
+        {
+          "title": "Vinnie Moore",
+          "category": "🎵",
+          "author": "Vinnie Moore",
+          "amazon_url": "https://www.amazon.es/s?k=Vinnie+Moore+Vinnie+Moore&tag=gragera-20"
+        },
+        {
+          "title": "Joe Satriani",
+          "category": "🎵",
+          "author": "Joe Satriani",
+          "amazon_url": "https://www.amazon.es/s?k=Joe+Satriani+Joe+Satriani&tag=gragera-20"
+        },
+        {
+          "title": "Art Tatum",
+          "category": "🎵",
+          "author": "Art Tatum",
+          "amazon_url": "https://www.amazon.es/s?k=Art+Tatum+Art+Tatum&tag=gragera-20"
+        },
+        {
+          "title": "Estudios de Hanon",
+          "category": "🎵",
+          "author": "Charles-Louis Hanon",
+          "amazon_url": "https://www.amazon.es/s?k=Estudios+de+Hanon+Charles-Louis+Hanon&tag=gragera-20"
+        },
+        {
+          "title": "Estudios de Czerny",
+          "category": "🎵",
+          "author": "Carl Czerny",
+          "amazon_url": "https://www.amazon.es/s?k=Estudios+de+Czerny+Carl+Czerny&tag=gragera-20"
+        },
+        {
+          "title": "Bolero de Ravel",
+          "category": "🎵",
+          "author": "Maurice Ravel",
+          "amazon_url": "https://www.amazon.es/s?k=Bolero+de+Ravel+Maurice+Ravel&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 126 - De ocas simplezas y ranchos",
+      "references": [
+        {
+          "title": "Aquí hay Dragones",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+Dragones&tag=gragera-20"
+        },
+        {
+          "title": "La Tijera",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=La+Tijera&tag=gragera-20"
+        },
+        {
+          "title": "Generation C48",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Generation+C48&tag=gragera-20"
+        },
+        {
+          "title": "Dodd Fos distracted",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Dodd+Fos+distracted&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 128 - De cruces canales y locos",
+      "references": [
+        {
+          "title": "La isla del doctor Moreau",
+          "category": "📚",
+          "author": "H.G. Wells",
+          "amazon_url": "https://www.amazon.es/s?k=La+isla+del+doctor+Moreau+H.G.+Wells&tag=gragera-20"
+        },
+        {
+          "title": "La isla del doctor Moreau",
+          "category": "🎬",
+          "author": "John Frankenheimer",
+          "amazon_url": "https://www.amazon.es/s?k=La+isla+del+doctor+Moreau+John+Frankenheimer&tag=gragera-20"
+        },
+        {
+          "title": "Ronin",
+          "category": "🎬",
+          "author": "John Frankenheimer",
+          "amazon_url": "https://www.amazon.es/s?k=Ronin+John+Frankenheimer&tag=gragera-20"
+        },
+        {
+          "title": "El motín de la Bounty",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=El+motín+de+la+Bounty&tag=gragera-20"
+        },
+        {
+          "title": "El acorazado Potemkin",
+          "category": "🎬",
+          "author": "Serguéi Eisenstein",
+          "amazon_url": "https://www.amazon.es/s?k=El+acorazado+Potemkin+Serguéi+Eisenstein&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 130 - De pasmos mordidas y saltitos",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Podcast español",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20"
+        },
+        {
+          "title": "Pac-Man",
+          "category": "🎮",
+          "author": "Namco",
+          "amazon_url": "https://www.amazon.es/s?k=Pac-Man+Namco&tag=gragera-20"
+        },
+        {
+          "title": "La felicidad",
+          "category": "🎵",
+          "author": "Canción popular",
+          "amazon_url": "https://www.amazon.es/s?k=La+felicidad+Canción+popular&tag=gragera-20"
+        },
+        {
+          "title": "Cuando llegues a tiembre",
+          "category": "🎵",
+          "author": "Javier Cansal (posiblemente mal transcrito)",
+          "amazon_url": "https://www.amazon.es/s?k=Cuando+llegues+a+tiembre+Javier+Cansal+(posiblemente+mal+transcrito)&tag=gragera-20"
+        },
+        {
+          "title": "Bruce Springsteen",
+          "category": "🎵",
+          "author": "Bruce Springsteen",
+          "amazon_url": "https://www.amazon.es/s?k=Bruce+Springsteen+Bruce+Springsteen&tag=gragera-20"
+        },
+        {
+          "title": "Atila el Huno",
+          "category": "📚",
+          "author": "Historia",
+          "amazon_url": "https://www.amazon.es/s?k=Atila+el+Huno+Historia&tag=gragera-20"
+        },
+        {
+          "title": "Rodrigo Borgia",
+          "category": "📚",
+          "author": "Historia",
+          "amazon_url": "https://www.amazon.es/s?k=Rodrigo+Borgia+Historia&tag=gragera-20"
+        },
+        {
+          "title": "Juan II (papa)",
+          "category": "📚",
+          "author": "Historia",
+          "amazon_url": "https://www.amazon.es/s?k=Juan+II+(papa)+Historia&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 132 - De falsedades dobles fotos y falsetes",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20"
+        },
+        {
+          "title": "Piedra, papel o tijera",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20"
+        },
+        {
+          "title": "Iron Man",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Iron+Man&tag=gragera-20"
+        },
+        {
+          "title": "Reacción de Maillard",
+          "category": "📚",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Reacción+de+Maillard&tag=gragera-20"
+        },
+        {
+          "title": "Napoleón",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Napoleón&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 134 - De sobornos bestias y finales",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Rodrigo Cortés, Juan Gómez-Jurado, Javier Cansado",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Rodrigo+Cortés,+Juan+Gómez-Jurado,+Javier+Cansado&tag=gragera-20"
+        },
+        {
+          "title": "Hamilton",
+          "category": "🎵",
+          "author": "Lin-Manuel Miranda",
+          "amazon_url": "https://www.amazon.es/s?k=Hamilton+Lin-Manuel+Miranda&tag=gragera-20"
+        },
+        {
+          "title": "La Oreja de Van Gogh",
+          "category": "🎵",
+          "author": "La Oreja de Van Gogh",
+          "amazon_url": "https://www.amazon.es/s?k=La+Oreja+de+Van+Gogh+La+Oreja+de+Van+Gogh&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 136 - De fundidos camisetas y burros",
+      "references": [
+        {
+          "title": "Los años extraordinarios",
+          "category": "📚",
+          "author": "Rodrigo Cortés",
+          "amazon_url": "https://www.amazon.es/s?k=Los+años+extraordinarios+Rodrigo+Cortés&tag=gragera-20"
+        },
+        {
+          "title": "Titanic",
+          "category": "🎬",
+          "author": "James Cameron",
+          "amazon_url": "https://www.amazon.es/s?k=Titanic+James+Cameron&tag=gragera-20"
+        },
+        {
+          "title": "El baile del pañuelo",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=El+baile+del+pañuelo&tag=gragera-20"
+        },
+        {
+          "title": "Tequila",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Tequila&tag=gragera-20"
+        },
+        {
+          "title": "Rolling Stone",
+          "category": "📚",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Rolling+Stone&tag=gragera-20"
+        },
+        {
+          "title": "Chapberry",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Chapberry&tag=gragera-20"
+        },
+        {
+          "title": "White D6",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=White+D6&tag=gragera-20"
+        },
+        {
+          "title": "White Champs",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=White+Champs&tag=gragera-20"
+        },
+        {
+          "title": "Bittercadas",
+          "category": "🎵",
+          "author": "Beach Boys",
+          "amazon_url": "https://www.amazon.es/s?k=Bittercadas+Beach+Boys&tag=gragera-20"
+        },
+        {
+          "title": "Brian Wilson",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Brian+Wilson&tag=gragera-20"
+        },
+        {
+          "title": "Juju",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Juju&tag=gragera-20"
+        },
+        {
+          "title": "Aretha Franklin",
+          "category": "🎵",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Aretha+Franklin&tag=gragera-20"
+        },
+        {
+          "title": "Purple Rain",
+          "category": "🎵",
+          "author": "Prince",
+          "amazon_url": "https://www.amazon.es/s?k=Purple+Rain+Prince&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 138 - De ríos pulgas y mejoras",
+      "references": [
+        {
+          "title": "Aquí hay dragones",
+          "category": "📺",
+          "author": "Javier Cansado, Arturo González-Campos, Juan Gómez-Cadenas",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+dragones+Javier+Cansado,+Arturo+González-Campos,+Juan+Gómez-Cadenas&tag=gragera-20"
+        },
+        {
+          "title": "El río",
+          "category": "🎵",
+          "author": "Miguel Ríos",
+          "amazon_url": "https://www.amazon.es/s?k=El+río+Miguel+Ríos&tag=gragera-20"
+        },
+        {
+          "title": "Amazonas",
+          "category": "🎵",
+          "author": "Walter Wanderley",
+          "amazon_url": "https://www.amazon.es/s?k=Amazonas+Walter+Wanderley&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 140 - De moda curare y Hawái",
+      "references": [
+        {
+          "title": "Lo que el viento se llevó",
+          "category": "🎬",
+          "author": "Victor Fleming",
+          "amazon_url": "https://www.amazon.es/s?k=Lo+que+el+viento+se+llevó+Victor+Fleming&tag=gragera-20"
+        },
+        {
+          "title": "La escóbula de la brojola",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=La+escóbula+de+la+brojola&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 142 - De bombardinos tenias y fallas",
+      "references": [
+        {
+          "title": "Aquí hay Dragones",
+          "category": "📚",
+          "author": "No mencionado",
+          "amazon_url": "https://www.amazon.es/s?k=Aquí+hay+Dragones+No+mencionado&tag=gragera-20"
+        },
+        {
+          "title": "Guillermo Tell",
+          "category": "🎵",
+          "author": "Gioachino Rossini",
+          "amazon_url": "https://www.amazon.es/s?k=Guillermo+Tell+Gioachino+Rossini&tag=gragera-20"
+        },
+        {
+          "title": "Portsmouth Sinfonia",
+          "category": "🎵",
+          "author": "Gavin Bryars",
+          "amazon_url": "https://www.amazon.es/s?k=Portsmouth+Sinfonia+Gavin+Bryars&tag=gragera-20"
+        },
+        {
+          "title": "Charles Dickens",
+          "category": "📚",
+          "author": "Charles Dickens",
+          "amazon_url": "https://www.amazon.es/s?k=Charles+Dickens+Charles+Dickens&tag=gragera-20"
+        },
+        {
+          "title": "Charlie Chaplin",
+          "category": "🎬",
+          "author": "Charlie Chaplin",
+          "amazon_url": "https://www.amazon.es/s?k=Charlie+Chaplin+Charlie+Chaplin&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 144 - De fabes batutas y cubos de cerveza",
+      "references": [
+        {
+          "title": "Star Wars",
+          "category": "🎬",
+          "author": "John Williams",
+          "amazon_url": "https://www.amazon.es/s?k=Star+Wars+John+Williams&tag=gragera-20"
+        },
+        {
+          "title": "La Resistencia",
+          "category": "📺",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=La+Resistencia&tag=gragera-20"
+        },
+        {
+          "title": "Astérix",
+          "category": "📖",
+          "author": "René Goscinny y Albert Uderzo",
+          "amazon_url": "https://www.amazon.es/s?k=Astérix+René+Goscinny+y+Albert+Uderzo&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 146 - De moriscos palomitas y vaques",
+      "references": [
+        {
+          "title": "Astérix",
+          "category": "📖",
+          "author": "René Goscinny y Albert Uderzo",
+          "amazon_url": "https://www.amazon.es/s?k=Astérix+René+Goscinny+y+Albert+Uderzo&tag=gragera-20"
+        },
+        {
+          "title": "La flaca",
+          "category": "🎵",
+          "author": "Jarabe de Palo",
+          "amazon_url": "https://www.amazon.es/s?k=La+flaca+Jarabe+de+Palo&tag=gragera-20"
+        },
+        {
+          "title": "Tequila",
+          "category": "🎵",
+          "author": "Tequila (banda)",
+          "amazon_url": "https://www.amazon.es/s?k=Tequila+Tequila+(banda)&tag=gragera-20"
+        },
+        {
+          "title": "Abderramán III",
+          "category": "📚",
+          "author": "No especificado",
+          "amazon_url": "https://www.amazon.es/s?k=Abderramán+III+No+especificado&tag=gragera-20"
+        },
+        {
+          "title": "El legado andalusí",
+          "category": "📚",
+          "author": "No especificado",
+          "amazon_url": "https://www.amazon.es/s?k=El+legado+andalusí+No+especificado&tag=gragera-20"
+        },
+        {
+          "title": "Piedra, papel o tijera",
+          "category": "🎮",
+          "author": "No especificado",
+          "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera+No+especificado&tag=gragera-20"
+        }
+      ]
+    },
+    {
+      "episode": "AHD 148 - De parejas lunáticos y yeyés",
+      "references": [
+        {
+          "title": "David Attenborough",
+          "category": "🎬",
+          "author": "David Attenborough",
+          "amazon_url": "https://www.amazon.es/s?k=David+Attenborough+David+Attenborough&tag=gragera-20"
+        },
+        {
+          "title": "Pingüinos",
+          "category": "🎬",
+          "author": "David Attenborough",
+          "amazon_url": "https://www.amazon.es/s?k=Pingüinos+David+Attenborough&tag=gragera-20"
+        },
+        {
+          "title": "Piedra, papel o tijera",
+          "category": "🎬",
+          "author": "",
+          "amazon_url": "https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20"
+        },
+        {
+          "title": "Simon & Garfunkel",
+          "category": "🎵",
+          "author": "Paul Simon, Art Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=Simon+&+Garfunkel+Paul+Simon,+Art+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "Paul Simon",
+          "category": "🎵",
+          "author": "Paul Simon",
+          "amazon_url": "https://www.amazon.es/s?k=Paul+Simon+Paul+Simon&tag=gragera-20"
+        },
+        {
+          "title": "Art Garfunkel",
+          "category": "🎵",
+          "author": "Art Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=Art+Garfunkel+Art+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "The Sound of Silence",
+          "category": "🎵",
+          "author": "Simon & Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=The+Sound+of+Silence+Simon+&+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "America",
+          "category": "🎵",
+          "author": "Simon & Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=America+Simon+&+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "Bridge Over Troubled Water",
+          "category": "🎵",
+          "author": "Simon & Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=Bridge+Over+Troubled+Water+Simon+&+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "Mrs. Robinson",
+          "category": "🎵",
+          "author": "Simon & Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=Mrs.+Robinson+Simon+&+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "The Boxer",
+          "category": "🎵",
+          "author": "Simon & Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=The+Boxer+Simon+&+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "Bright Eyes",
+          "category": "🎵",
+          "author": "Art Garfunkel",
+          "amazon_url": "https://www.amazon.es/s?k=Bright+Eyes+Art+Garfunkel&tag=gragera-20"
+        },
+        {
+          "title": "Rolling Stone",
+          "category": "📚",
+          "author": "Rolling Stone",
+          "amazon_url": "https://www.amazon.es/s?k=Rolling+Stone+Rolling+Stone&tag=gragera-20"
+        },
+        {
+          "title": "500 Greatest Songs of All Time",
+          "category": "📚",
+          "author": "Rolling Stone",
+          "amazon_url": "https://www.amazon.es/s?k=500+Greatest+Songs+of+All+Time+Rolling+Stone&tag=gragera-20"
+        },
+        {
+          "title": "Miliki",
+          "category": "🎵",
+          "author": "Miliki",
+          "amazon_url": "https://www.amazon.es/s?k=Miliki+Miliki&tag=gragera-20"
+        }
+      ]
     }
   ],
-  "total_episodes": 35,
-  "total_references": 196
+  "total_episodes": 57,
+  "total_references": 330
 }

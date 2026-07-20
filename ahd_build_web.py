@@ -7,6 +7,18 @@ DATA = os.path.expanduser("~/Boti/aqui-hay-dragones/referencias.json")
 OUT = os.path.expanduser("~/Boti/aqui-hay-dragones/index.html")
 JSON_OUT = os.path.expanduser("~/Boti/aqui-hay-dragones/catalog.json")
 
+def resolve_cover(ref):
+    """Return cover path: local if exists, else Wikipedia URL, else None."""
+    # Check local cover first
+    cover = ref.get("cover") or ""
+    if cover and not cover.startswith("http") and os.path.exists(os.path.expanduser(f"~/Boti/aqui-hay-dragones/{cover}")):
+        return cover
+    # Fallback to Wikipedia URL
+    image = ref.get("image") or ""
+    if image:
+        return image
+    return None
+
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
 data = json.load(open(DATA))
@@ -31,7 +43,7 @@ for ep in episodes:
             "episode": ep_name,
             "episode_num": ep_num,
             "episode_url": f"https://www.ivoox.com/podcast-aqui-hay-dragones_sq_f1900735_1.html",
-            "cover": r.get("cover", ""),
+            "cover": resolve_cover(r),
             "description": r.get("desc", ""),
             "amazon_url": r.get("amazon_url", ""),
             "episode_title_short": re.sub(r'^AHD\s*\d+\s*[–\-]\s*', '', ep_name)
@@ -73,8 +85,9 @@ def build_html():
             label = category_labels.get(cat, cat)
             icon = category_icons.get(cat, cat)
             cover_html = ""
-            if r.get("cover"):
-                cover_html = f'<div class="card-cover"><img src="{escape(r["cover"])}" alt="{escape(r["title"])}" loading="lazy"></div>'
+            cover_path = resolve_cover(r)
+            if cover_path:
+                cover_html = f'<div class="card-cover"><img src="{escape(cover_path)}" alt="{escape(r["title"])}" loading="lazy"></div>'
             refs_html += f'''\
             <div class="ref-card" data-category="{icon}" onclick="openModal({r.get("id", 0)})">
               {cover_html}

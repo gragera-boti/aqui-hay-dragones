@@ -122,22 +122,29 @@ def split_into_chunks(text, max_chars=12000):
 
 def extract_system_prompt():
     return textwrap.dedent("""\
-    Eres un crítico cultural experto que analiza transcripciones de podcasts.
+    Eres un crítico cultural experto analizando transcripciones de podcasts españoles.
+    Esta transcripción fue generada por reconocimiento de voz automático, por lo que
+    algunos nombres pueden estar mal escritos o distorsionados.
     
-    Tu tarea es extraer TODAS las referencias culturales mencionadas en la conversación.
-    Incluye SOLO referencias que sean claramente identificables:
-    - Películas (título + año de estreno + director si se menciona)
-    - Series de TV
-    - Libros (título + autor)
-    - Cómics/Novelas gráficas
-    - Música (canciones, álbumes, artistas, bandas)
-    - Videojuegos
+    Tu tarea es extraer TODAS las referencias culturales mencionadas.
+    Incluye cualquier referencia aunque el nombre esté ligeramente distorsionado.
+    Usa tu conocimiento cultural para identificar el título correcto.
     
-    NO incluyas: personas (actores, directores, escritores) como entidad separada,
+    Incluye SOLO estas categorías, cada una con su emoji:
+    🎬 Cine (películas, documentales)
+    📺 TV (series, programas)
+    📚 Libros (novelas, ensayos, cualquier libro)
+    📖 Cómics (novelas gráficas, manga, tebeos)
+    🎵 Música (canciones, álbumes, artistas, bandas, compositores)
+    🎮 Videojuegos
+    
+    NO incluyas personas como entidad separada (actores, directores, escritores),
     a menos que sean también una referencia cultural (ej: un libro de Stephen King).
     
-    Incluye SOLO las que aparecen EXPLÍCITAMENTE mencionadas.
-    NO adivines ni añadas contexto que no esté en el texto.
+    Es mejor incluir una referencia dudosa que omitir una real.
+    Si reconoces "cartógritos del renacimiento" como "cartógrafos del renacimiento",
+    no es una referencia cultural válida. Pero si alguien dice "Astérix" aunque
+    esté mal transcrito, debe aparecer como referencia.
     """)
 
 

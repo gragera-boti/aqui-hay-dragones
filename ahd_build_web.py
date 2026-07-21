@@ -72,6 +72,7 @@ for r in catalog:
 # Build HTML
 def build_html():
     eps_html = ""
+    catalog_idx = 0
     for i, ep in enumerate(episodes):
         ep_name = ep["episode"]
         m = re.match(r'AHD\s*(\d+)', ep_name)
@@ -80,6 +81,7 @@ def build_html():
         count = ep_counter.get(ep_name, 0)
         
         refs_html = ""
+        ref_id = 0
         for r in ep["references"]:
             cat = r["category"]
             label = category_labels.get(cat, cat)
@@ -89,7 +91,7 @@ def build_html():
             if cover_path:
                 cover_html = f'<div class="card-cover"><img src="{escape(cover_path)}" alt="{escape(r["title"])}" loading="lazy"></div>'
             refs_html += f'''\
-            <div class="ref-card" data-category="{icon}" onclick="openModal({r.get("id", 0)})">
+            <div class="ref-card" data-category="{icon}" onclick="openModal({catalog_idx + ref_id})">
               {cover_html}
               <div class="card-badge {icon}">{label}</div>
               <div class="card-info">
@@ -97,6 +99,8 @@ def build_html():
                 {f'<div class="card-author">{escape(r.get("author", ""))}</div>' if r.get("author") else ''}
               </div>
             </div>'''
+            ref_id += 1
+        catalog_idx += ref_id
         
         ep_id = f"ep-{ep_num}"
         eps_html += f'''\

@@ -1,6 +1,39 @@
 # Referencias de Aquí hay Dragones
-Total: 569 referencias en 110 episodios
+Total: 748 referencias en 138 episodios
 ---
+
+## AHD Teaser Aquí hay dragones
+- 📺 **Aquí hay dragones** · Arturo González-Campos, Javier Cansado, Juan Gómez-Jurado, Rodrigo Cortés · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Arturo+González-Campos,+Javier+Cansado,+Juan+Gómez-Jurado,+Rodrigo+Cortés&tag=gragera-20)
+- 🎬 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+
+## AHD 98 - De orejas invidentes y montañas
+- 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+- 🎵 **Blackbird** · The Beatles · [Amazon](https://www.amazon.es/s?k=Blackbird+The+Beatles&tag=gragera-20)
+- 🎵 **Hit the Road Jack** · Ray Charles · [Amazon](https://www.amazon.es/s?k=Hit+the+Road+Jack+Ray+Charles&tag=gragera-20)
+- 🎵 **La Oreja de Van Gogh** · [Amazon](https://www.amazon.es/s?k=La+Oreja+de+Van+Gogh&tag=gragera-20)
+- 🎵 **Pesadilla** · La Oreja de Van Gogh · [Amazon](https://www.amazon.es/s?k=Pesadilla+La+Oreja+de+Van+Gogh&tag=gragera-20)
+- 🎵 **El 28** · La Oreja de Van Gogh · [Amazon](https://www.amazon.es/s?k=El+28+La+Oreja+de+Van+Gogh&tag=gragera-20)
+- 🎵 **U2** · [Amazon](https://www.amazon.es/s?k=U2&tag=gragera-20)
+- 🎵 **Platero y Tú** · [Amazon](https://www.amazon.es/s?k=Platero+y+Tú&tag=gragera-20)
+- 🎵 **Charlie Parker** · [Amazon](https://www.amazon.es/s?k=Charlie+Parker&tag=gragera-20)
+- 🎵 **A Love Supreme** · John Coltrane · [Amazon](https://www.amazon.es/s?k=A+Love+Supreme+John+Coltrane&tag=gragera-20)
+
+## AHD 96 - De masajes reyes y micheladas
+- 🎬 **2001: Una odisea del espacio** · Stanley Kubrick · [Amazon](https://www.amazon.es/s?k=2001:+Una+odisea+del+espacio+Stanley+Kubrick&tag=gragera-20)
+- 🎬 **Teléfono rojo** · Stanley Kubrick · [Amazon](https://www.amazon.es/s?k=Teléfono+rojo+Stanley+Kubrick&tag=gragera-20)
+- 🎬 **Espartaco** · Stanley Kubrick · [Amazon](https://www.amazon.es/s?k=Espartaco+Stanley+Kubrick&tag=gragera-20)
+- 🎬 **Un tranvía llamado Deseo** · Elia Kazan · [Amazon](https://www.amazon.es/s?k=Un+tranvía+llamado+Deseo+Elia+Kazan&tag=gragera-20)
+- 🎬 **El largo y cálido verano** · Martin Ritt · [Amazon](https://www.amazon.es/s?k=El+largo+y+cálido+verano+Martin+Ritt&tag=gragera-20)
+- 🎬 **La furia** · Brian De Palma · [Amazon](https://www.amazon.es/s?k=La+furia+Brian+De+Palma&tag=gragera-20)
+- 🎬 **¿Quién teme a Virginia Woolf?** · Mike Nichols · [Amazon](https://www.amazon.es/s?k=¿Quién+teme+a+Virginia+Woolf?+Mike+Nichols&tag=gragera-20)
+- 🎵 **El Danubio azul** · Johann Strauss (hijo) · [Amazon](https://www.amazon.es/s?k=El+Danubio+azul+Johann+Strauss+(hijo)&tag=gragera-20)
+- 🎵 **Así habló Zaratustra** · Richard Strauss · [Amazon](https://www.amazon.es/s?k=Así+habló+Zaratustra+Richard+Strauss&tag=gragera-20)
+
+## AHD 94 - De españolas cortesanas y escarabajos
+- 📺 **Aquí hay dragones** · Podcast · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast&tag=gragera-20)
+- 📚 **Los tres mosqueteros** · Alexandre Dumas · [Amazon](https://www.amazon.es/s?k=Los+tres+mosqueteros+Alexandre+Dumas&tag=gragera-20)
+- 🎵 **La bamba** · Canción tradicional mexicana · [Amazon](https://www.amazon.es/s?k=La+bamba+Canción+tradicional+mexicana&tag=gragera-20)
+- 📖 **Jack Kirby** · Jack Kirby · [Amazon](https://www.amazon.es/s?k=Jack+Kirby+Jack+Kirby&tag=gragera-20)
 
 ## AHD 92 - De miércoles sombreros y barbas
 - 📺 **Aquí hay dragones** · Podcast español · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Podcast+español&tag=gragera-20)
@@ -24,6 +57,44 @@ Total: 569 referencias en 110 episodios
 - 🎬 **La favorita** · Yorgos Lanthimos · [Amazon](https://www.amazon.es/s?k=La+favorita+Yorgos+Lanthimos&tag=gragera-20)
 - 🎬 **La loca historia del mundo** · Mel Brooks · [Amazon](https://www.amazon.es/s?k=La+loca+historia+del+mundo+Mel+Brooks&tag=gragera-20)
 
+## AHD 88 - De indulgencias teclas y narices
+- 🎬 **Mi vecino Totoro** · Hayao Miyazaki · [Amazon](https://www.amazon.es/s?k=Mi+vecino+Totoro+Hayao+Miyazaki&tag=gragera-20)
+- 🎮 **StarCraft** · Blizzard Entertainment · [Amazon](https://www.amazon.es/s?k=StarCraft+Blizzard+Entertainment&tag=gragera-20)
+- 📚 **Taxa Camara** · León X (documento histórico) · [Amazon](https://www.amazon.es/s?k=Taxa+Camara+León+X+(documento+histórico)&tag=gragera-20)
+
+## AHD 86 - De nones naves y nieves
+- 📺 **Michael Robinson** · [Amazon](https://www.amazon.es/s?k=Michael+Robinson&tag=gragera-20)
+- 🎵 **Queen** · Freddie Mercury · [Amazon](https://www.amazon.es/s?k=Queen+Freddie+Mercury&tag=gragera-20)
+- 🎵 **Don't Stop Me Now** · Queen · [Amazon](https://www.amazon.es/s?k=Don't+Stop+Me+Now+Queen&tag=gragera-20)
+- 🎵 **Under Pressure** · Queen · [Amazon](https://www.amazon.es/s?k=Under+Pressure+Queen&tag=gragera-20)
+- 🎵 **Shantan con el sol** · [Amazon](https://www.amazon.es/s?k=Shantan+con+el+sol&tag=gragera-20)
+
+## AHD 84 - De rimas alegría y guanches
+- 📚 **La Biblia** · Dios (tradicionalmente) · [Amazon](https://www.amazon.es/s?k=La+Biblia+Dios+(tradicionalmente)&tag=gragera-20)
+- 📚 **La Divina Comedia** · Dante Alighieri · [Amazon](https://www.amazon.es/s?k=La+Divina+Comedia+Dante+Alighieri&tag=gragera-20)
+- 🎬 **Indiana Jones** · Steven Spielberg · [Amazon](https://www.amazon.es/s?k=Indiana+Jones+Steven+Spielberg&tag=gragera-20)
+- 📚 **El Lazarillo de Tormes** · Anónimo · [Amazon](https://www.amazon.es/s?k=El+Lazarillo+de+Tormes+Anónimo&tag=gragera-20)
+
+## AHD 82 - De carreras inventos y noes
+- 🎬 **Maratón** · [Amazon](https://www.amazon.es/s?k=Maratón&tag=gragera-20)
+- 🎵 **Champions League 2012** · [Amazon](https://www.amazon.es/s?k=Champions+League+2012&tag=gragera-20)
+- 🎬 **Juegos Olímpicos de San Luis 1904** · [Amazon](https://www.amazon.es/s?k=Juegos+Olímpicos+de+San+Luis+1904&tag=gragera-20)
+
+## AHD 80 - De agentes dichos y templos
+- 📺 **Dragon Ball** · Akira Toriyama · [Amazon](https://www.amazon.es/s?k=Dragon+Ball+Akira+Toriyama&tag=gragera-20)
+- 📺 **Muten Roshi** · Akira Toriyama · [Amazon](https://www.amazon.es/s?k=Muten+Roshi+Akira+Toriyama&tag=gragera-20)
+- 🎵 **Los Chichos** · [Amazon](https://www.amazon.es/s?k=Los+Chichos&tag=gragera-20)
+- 🎬 **Ewan McGregor** · [Amazon](https://www.amazon.es/s?k=Ewan+McGregor&tag=gragera-20)
+- 📚 **Mario Conde** · [Amazon](https://www.amazon.es/s?k=Mario+Conde&tag=gragera-20)
+- 🎬 **Brunelleschi** · [Amazon](https://www.amazon.es/s?k=Brunelleschi&tag=gragera-20)
+- 📚 **Juan Gómez-Jurado** · [Amazon](https://www.amazon.es/s?k=Juan+Gómez-Jurado&tag=gragera-20)
+- 🎬 **Mata Hari** · [Amazon](https://www.amazon.es/s?k=Mata+Hari&tag=gragera-20)
+- 🎵 **JPEC** · [Amazon](https://www.amazon.es/s?k=JPEC&tag=gragera-20)
+- 📚 **Stephen King** · Stephen King · [Amazon](https://www.amazon.es/s?k=Stephen+King+Stephen+King&tag=gragera-20)
+- 🎬 **Mago Pop** · [Amazon](https://www.amazon.es/s?k=Mago+Pop&tag=gragera-20)
+- 🎬 **Siemens** · [Amazon](https://www.amazon.es/s?k=Siemens&tag=gragera-20)
+- 🎬 **Enigma** · [Amazon](https://www.amazon.es/s?k=Enigma&tag=gragera-20)
+
 ## AHD 8 - De las guerras ptolemaicas un doctor y el fútbol chapas
 - 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
 - 📺 **Morir de pie** · [Amazon](https://www.amazon.es/s?k=Morir+de+pie&tag=gragera-20)
@@ -35,11 +106,89 @@ Total: 569 referencias en 110 episodios
 - 📚 **Montaigne** · Michel de Montaigne · [Amazon](https://www.amazon.es/s?k=Montaigne+Michel+de+Montaigne&tag=gragera-20)
 - 📚 **Séneca** · Séneca · [Amazon](https://www.amazon.es/s?k=Séneca+Séneca&tag=gragera-20)
 
+## AHD 78 - De gaviotas loros y canarios
+- 🎬 **Los pájaros** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Los+pájaros+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **Cujo** · Lewis Teague · [Amazon](https://www.amazon.es/s?k=Cujo+Lewis+Teague&tag=gragera-20)
+- 🎬 **El diablo sobre ruedas** · Steven Spielberg · [Amazon](https://www.amazon.es/s?k=El+diablo+sobre+ruedas+Steven+Spielberg&tag=gragera-20)
+- 🎬 **Roar** · Noel Marshall · [Amazon](https://www.amazon.es/s?k=Roar+Noel+Marshall&tag=gragera-20)
+- 📚 **Rebecca** · Daphne du Maurier · [Amazon](https://www.amazon.es/s?k=Rebecca+Daphne+du+Maurier&tag=gragera-20)
+- 📚 **Mi prima Raquel** · Daphne du Maurier · [Amazon](https://www.amazon.es/s?k=Mi+prima+Raquel+Daphne+du+Maurier&tag=gragera-20)
+- 📺 **Alfred Hitchcock presenta** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Alfred+Hitchcock+presenta+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **Jurassic Park** · Steven Spielberg · [Amazon](https://www.amazon.es/s?k=Jurassic+Park+Steven+Spielberg&tag=gragera-20)
+- 🎬 **Psicosis** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Psicosis+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **El infierno del odio** · Akira Kurosawa · [Amazon](https://www.amazon.es/s?k=El+infierno+del+odio+Akira+Kurosawa&tag=gragera-20)
+- 🎬 **Frenesí** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Frenesí+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **Marnie la ladrona** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Marnie+la+ladrona+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **Encadenados** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Encadenados+Alfred+Hitchcock&tag=gragera-20)
+- 🎬 **Atrapa a un ladrón** · Alfred Hitchcock · [Amazon](https://www.amazon.es/s?k=Atrapa+a+un+ladrón+Alfred+Hitchcock&tag=gragera-20)
+
 ## AHD 76 - De espías mandíbulas y siestas
 - 📚 **Cien años de soledad** · Gabriel García Márquez · [Amazon](https://www.amazon.es/s?k=Cien+años+de+soledad+Gabriel+García+Márquez&tag=gragera-20)
 - 📚 **El coronel no tiene quien le escriba** · Gabriel García Márquez · [Amazon](https://www.amazon.es/s?k=El+coronel+no+tiene+quien+le+escriba+Gabriel+García+Márquez&tag=gragera-20)
 - 📚 **Los Miserables** · Victor Hugo · [Amazon](https://www.amazon.es/s?k=Los+Miserables+Victor+Hugo&tag=gragera-20)
 - 🎬 **Michael Bay** · Michael Bay · [Amazon](https://www.amazon.es/s?k=Michael+Bay+Michael+Bay&tag=gragera-20)
+
+## AHD 74 - De retratos pancracios y razas
+- 🎬 **Laura** · Otto Preminger · [Amazon](https://www.amazon.es/s?k=Laura+Otto+Preminger&tag=gragera-20)
+- 🎬 **Anatomy of a Murder** · Otto Preminger · [Amazon](https://www.amazon.es/s?k=Anatomy+of+a+Murder+Otto+Preminger&tag=gragera-20)
+- 🎬 **Exodus** · Otto Preminger · [Amazon](https://www.amazon.es/s?k=Exodus+Otto+Preminger&tag=gragera-20)
+- 🎬 **The Man with the Golden Arm** · Otto Preminger · [Amazon](https://www.amazon.es/s?k=The+Man+with+the+Golden+Arm+Otto+Preminger&tag=gragera-20)
+- 🎬 **From Here to Eternity** · Fred Zinnemann · [Amazon](https://www.amazon.es/s?k=From+Here+to+Eternity+Fred+Zinnemann&tag=gragera-20)
+- 📚 **Ring Twice for Laura** · Vera Caspary · [Amazon](https://www.amazon.es/s?k=Ring+Twice+for+Laura+Vera+Caspary&tag=gragera-20)
+- 🎬 **All Quiet on the Western Front** · Lewis Milestone · [Amazon](https://www.amazon.es/s?k=All+Quiet+on+the+Western+Front+Lewis+Milestone&tag=gragera-20)
+- 🎬 **Mutiny on the Bounty** · Lewis Milestone · [Amazon](https://www.amazon.es/s?k=Mutiny+on+the+Bounty+Lewis+Milestone&tag=gragera-20)
+
+## AHD 72 - De pelazos congas y sueños
+- 📺 **Dragones** · [Amazon](https://www.amazon.es/s?k=Dragones&tag=gragera-20)
+- 🎵 **Savoy** · [Amazon](https://www.amazon.es/s?k=Savoy&tag=gragera-20)
+- 🎵 **Rod Stewart** · [Amazon](https://www.amazon.es/s?k=Rod+Stewart&tag=gragera-20)
+- 🎵 **Atlantis Krause** · Rod Stewart · [Amazon](https://www.amazon.es/s?k=Atlantis+Krause+Rod+Stewart&tag=gragera-20)
+- 📺 **Julio Otero** · [Amazon](https://www.amazon.es/s?k=Julio+Otero&tag=gragera-20)
+- 📺 **Tres por cuatro** · [Amazon](https://www.amazon.es/s?k=Tres+por+cuatro&tag=gragera-20)
+
+## AHD 70 - De pingüinas seudónimos y capas
+- 🎬 **Indiana Jones** · Steven Spielberg · [Amazon](https://www.amazon.es/s?k=Indiana+Jones+Steven+Spielberg&tag=gragera-20)
+- 📚 **Gloria Fuertes** · Gloria Fuertes · [Amazon](https://www.amazon.es/s?k=Gloria+Fuertes+Gloria+Fuertes&tag=gragera-20)
+- 🎵 **La tierra es un globo** · Gloria Fuertes · [Amazon](https://www.amazon.es/s?k=La+tierra+es+un+globo+Gloria+Fuertes&tag=gragera-20)
+- 📖 **Flechas y Pelayos** · [Amazon](https://www.amazon.es/s?k=Flechas+y+Pelayos&tag=gragera-20)
+- 📖 **Chicos** · [Amazon](https://www.amazon.es/s?k=Chicos&tag=gragera-20)
+- 📖 **Jesús Blasco** · Jesús Blasco · [Amazon](https://www.amazon.es/s?k=Jesús+Blasco+Jesús+Blasco&tag=gragera-20)
+- 📖 **Bellino de Arote** · Bellino de Arote · [Amazon](https://www.amazon.es/s?k=Bellino+de+Arote+Bellino+de+Arote&tag=gragera-20)
+- 📺 **Los Chieri Piti Flauticos** · [Amazon](https://www.amazon.es/s?k=Los+Chieri+Piti+Flauticos&tag=gragera-20)
+
+## AHD 68 - De empecinados clubes y caminantes
+- 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+- 🎵 **Spotify** · [Amazon](https://www.amazon.es/s?k=Spotify&tag=gragera-20)
+- 📺 **iVoox** · [Amazon](https://www.amazon.es/s?k=iVoox&tag=gragera-20)
+- 🎮 **TomTom** · [Amazon](https://www.amazon.es/s?k=TomTom&tag=gragera-20)
+- 🎮 **Google Maps** · [Amazon](https://www.amazon.es/s?k=Google+Maps&tag=gragera-20)
+
+## AHD 66 - De seudónimos gubias y pobriños
+- 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+- 🎮 **Piedra, papel o tijera** · [Amazon](https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20)
+- 🎵 **Manuel Serrat** · Manuel Serrat · [Amazon](https://www.amazon.es/s?k=Manuel+Serrat+Manuel+Serrat&tag=gragera-20)
+- 🎵 **Marisol** · Marisol · [Amazon](https://www.amazon.es/s?k=Marisol+Marisol&tag=gragera-20)
+- 🎵 **Elton John** · Elton John · [Amazon](https://www.amazon.es/s?k=Elton+John+Elton+John&tag=gragera-20)
+- 🎵 **Bernie Taupin** · Bernie Taupin · [Amazon](https://www.amazon.es/s?k=Bernie+Taupin+Bernie+Taupin&tag=gragera-20)
+- 🎵 **John Baldry** · John Baldry · [Amazon](https://www.amazon.es/s?k=John+Baldry+John+Baldry&tag=gragera-20)
+- 🎬 **Rocketman** · [Amazon](https://www.amazon.es/s?k=Rocketman&tag=gragera-20)
+- 🎬 **Marilyn Monroe** · [Amazon](https://www.amazon.es/s?k=Marilyn+Monroe&tag=gragera-20)
+- 🎵 **Candle in the Wind** · Elton John · [Amazon](https://www.amazon.es/s?k=Candle+in+the+Wind+Elton+John&tag=gragera-20)
+- 🎵 **Juan Luis Londoño Arias** · Juan Luis Londoño Arias · [Amazon](https://www.amazon.es/s?k=Juan+Luis+Londoño+Arias+Juan+Luis+Londoño+Arias&tag=gragera-20)
+- 📚 **Don Quijote de la Mancha** · Miguel de Cervantes · [Amazon](https://www.amazon.es/s?k=Don+Quijote+de+la+Mancha+Miguel+de+Cervantes&tag=gragera-20)
+
+## AHD 64 - De chapelas glissandos y bufones
+- 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+- 🎮 **Piedra, papel o tijera** · [Amazon](https://www.amazon.es/s?k=Piedra,+papel+o+tijera&tag=gragera-20)
+- 🎬 **Tarzán** · [Amazon](https://www.amazon.es/s?k=Tarzán&tag=gragera-20)
+- 🎮 **Secret of Monkey Island** · LucasArts · [Amazon](https://www.amazon.es/s?k=Secret+of+Monkey+Island+LucasArts&tag=gragera-20)
+- 🎮 **Indiana Jones and the Last Crusade** · LucasArts · [Amazon](https://www.amazon.es/s?k=Indiana+Jones+and+the+Last+Crusade+LucasArts&tag=gragera-20)
+- 🎮 **Monkey Island** · LucasArts · [Amazon](https://www.amazon.es/s?k=Monkey+Island+LucasArts&tag=gragera-20)
+- 🎬 **Star Wars: Episodio IV - Una nueva esperanza** · George Lucas · [Amazon](https://www.amazon.es/s?k=Star+Wars:+Episodio+IV+-+Una+nueva+esperanza+George+Lucas&tag=gragera-20)
+- 🎬 **Pixar** · [Amazon](https://www.amazon.es/s?k=Pixar&tag=gragera-20)
+- 🎮 **La Briez** · [Amazon](https://www.amazon.es/s?k=La+Briez&tag=gragera-20)
+- 🎬 **Labyrinth** · Jim Henson · [Amazon](https://www.amazon.es/s?k=Labyrinth+Jim+Henson&tag=gragera-20)
+- 🎮 **SCUMM** · LucasArts · [Amazon](https://www.amazon.es/s?k=SCUMM+LucasArts&tag=gragera-20)
 
 ## AHD 60 - De trasuntos gerundios y fugas
 - 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
@@ -61,6 +210,18 @@ Total: 569 referencias en 110 episodios
 - 🎵 **Armando Moreno** · Armando Moreno · [Amazon](https://www.amazon.es/s?k=Armando+Moreno+Armando+Moreno&tag=gragera-20)
 - 🎵 **Michael Nyman** · Michael Nyman · [Amazon](https://www.amazon.es/s?k=Michael+Nyman+Michael+Nyman&tag=gragera-20)
 - 🎵 **Johann Sebastian Bach** · Johann Sebastian Bach · [Amazon](https://www.amazon.es/s?k=Johann+Sebastian+Bach+Johann+Sebastian+Bach&tag=gragera-20)
+
+## AHD 58 - De payasos monstruos y gafas
+- 🎬 **El día que el payaso lloró** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=El+día+que+el+payaso+lloró+Jerry+Lewis&tag=gragera-20)
+- 🎵 **Jerry Lewis** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=Jerry+Lewis+Jerry+Lewis&tag=gragera-20)
+- 🎬 **Frank Tashlin** · Frank Tashlin · [Amazon](https://www.amazon.es/s?k=Frank+Tashlin+Frank+Tashlin&tag=gragera-20)
+- 🎵 **Dean Martin** · Dean Martin · [Amazon](https://www.amazon.es/s?k=Dean+Martin+Dean+Martin&tag=gragera-20)
+- 🎬 **El botones** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=El+botones+Jerry+Lewis&tag=gragera-20)
+- 🎬 **El terror de las chicas** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=El+terror+de+las+chicas+Jerry+Lewis&tag=gragera-20)
+- 🎬 **El profesor chiflado** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=El+profesor+chiflado+Jerry+Lewis&tag=gragera-20)
+- 🎬 **Eddie Murphy** · Eddie Murphy · [Amazon](https://www.amazon.es/s?k=Eddie+Murphy+Eddie+Murphy&tag=gragera-20)
+- 🎬 **El rey de la comedia** · Jerry Lewis · [Amazon](https://www.amazon.es/s?k=El+rey+de+la+comedia+Jerry+Lewis&tag=gragera-20)
+- 📚 **Hamlet** · William Shakespeare · [Amazon](https://www.amazon.es/s?k=Hamlet+William+Shakespeare&tag=gragera-20)
 
 ## AHD 56 - Del anís París y Brad Pitt
 - 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
@@ -139,6 +300,14 @@ Total: 569 referencias en 110 episodios
 - 📚 **Ensayo sobre el principio de la población** · Thomas Malthus · [Amazon](https://www.amazon.es/s?k=Ensayo+sobre+el+principio+de+la+población+Thomas+Malthus&tag=gragera-20)
 - 📺 **Yo sí, yo sí** · [Amazon](https://www.amazon.es/s?k=Yo+sí,+yo+sí&tag=gragera-20)
 
+## AHD 38 - De guitarras aquelarres y apocalipsis ya
+- 🎵 **Tom Waits** · Tom Waits · [Amazon](https://www.amazon.es/s?k=Tom+Waits+Tom+Waits&tag=gragera-20)
+- 🎵 **Bob Dylan** · Bob Dylan · [Amazon](https://www.amazon.es/s?k=Bob+Dylan+Bob+Dylan&tag=gragera-20)
+- 🎵 **My Way** · Frank Sinatra · [Amazon](https://www.amazon.es/s?k=My+Way+Frank+Sinatra&tag=gragera-20)
+- 📺 **Operación Triunfo** · [Amazon](https://www.amazon.es/s?k=Operación+Triunfo&tag=gragera-20)
+- 🎵 **Con tu pueblo y mi quiero** · [Amazon](https://www.amazon.es/s?k=Con+tu+pueblo+y+mi+quiero&tag=gragera-20)
+- 🎵 **Pano Guerrero** · Pano Guerrero · [Amazon](https://www.amazon.es/s?k=Pano+Guerrero+Pano+Guerrero&tag=gragera-20)
+
 ## AHD 36 - De películas de papel vikingos y borrachos al piano
 - 🎬 **Star Wars: Una nueva esperanza** · George Lucas · [Amazon](https://www.amazon.es/s?k=Star+Wars:+Una+nueva+esperanza+George+Lucas&tag=gragera-20)
 - 🎬 **El padrino** · Francis Ford Coppola · [Amazon](https://www.amazon.es/s?k=El+padrino+Francis+Ford+Coppola&tag=gragera-20)
@@ -179,9 +348,73 @@ Total: 569 referencias en 110 episodios
 - 🎵 **Bad Bunny** · Bad Bunny · [Amazon](https://www.amazon.es/s?k=Bad+Bunny+Bad+Bunny&tag=gragera-20)
 - 📚 **La Celestina** · Fernando de Rojas · [Amazon](https://www.amazon.es/s?k=La+Celestina+Fernando+de+Rojas&tag=gragera-20)
 
+## AHD 276 - De cuentos magos y citas
+- 📺 **La Casa del Dragón** · George R.R. Martin / Ryan Condal · [Amazon](https://www.amazon.es/s?k=La+Casa+del+Dragón+George+R.R.+Martin+/+Ryan+Condal&tag=gragera-20)
+- 🎬 **Rocky** · John G. Avildsen · [Amazon](https://www.amazon.es/s?k=Rocky+John+G.+Avildsen&tag=gragera-20)
+- 🎬 **Superman** · Richard Donner · [Amazon](https://www.amazon.es/s?k=Superman+Richard+Donner&tag=gragera-20)
+- 📖 **Fábulas** · Bill Willingham · [Amazon](https://www.amazon.es/s?k=Fábulas+Bill+Willingham&tag=gragera-20)
+- 📖 **Los Pitufos** · Peyo · [Amazon](https://www.amazon.es/s?k=Los+Pitufos+Peyo&tag=gragera-20)
+- 📖 **Snupi** · Charles M. Schulz · [Amazon](https://www.amazon.es/s?k=Snupi+Charles+M.+Schulz&tag=gragera-20)
+- 📖 **Gel-Braiser** · Varios autores · [Amazon](https://www.amazon.es/s?k=Gel-Braiser+Varios+autores&tag=gragera-20)
+- 🎮 **Dragones y Mazmorras** · Gary Gygax · [Amazon](https://www.amazon.es/s?k=Dragones+y+Mazmorras+Gary+Gygax&tag=gragera-20)
+- 📚 **El Señor de los Anillos** · J.R.R. Tolkien · [Amazon](https://www.amazon.es/s?k=El+Señor+de+los+Anillos+J.R.R.+Tolkien&tag=gragera-20)
+- 🎬 **Sauron** · J.R.R. Tolkien · [Amazon](https://www.amazon.es/s?k=Sauron+J.R.R.+Tolkien&tag=gragera-20)
+- 📖 **Los Tres Cerditos** · Anónimo · [Amazon](https://www.amazon.es/s?k=Los+Tres+Cerditos+Anónimo&tag=gragera-20)
+- 📖 **Cenicienta** · Charles Perrault · [Amazon](https://www.amazon.es/s?k=Cenicienta+Charles+Perrault&tag=gragera-20)
+- 📖 **Jaime** · Anónimo · [Amazon](https://www.amazon.es/s?k=Jaime+Anónimo&tag=gragera-20)
+- 📚 **Las mil y una noches** · Anónimo · [Amazon](https://www.amazon.es/s?k=Las+mil+y+una+noches+Anónimo&tag=gragera-20)
+
+## AHD 274 - De roboces atontaos y cholas
+- 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
+- 📺 **La casa del dragón** · [Amazon](https://www.amazon.es/s?k=La+casa+del+dragón&tag=gragera-20)
+- 📚 **Hija del cielo** · Rodrigo Bordes · [Amazon](https://www.amazon.es/s?k=Hija+del+cielo+Rodrigo+Bordes&tag=gragera-20)
+- 📖 **La escuela indecente** · Gō Nagai · [Amazon](https://www.amazon.es/s?k=La+escuela+indecente+Gō+Nagai&tag=gragera-20)
+- 📖 **Devilman** · Gō Nagai · [Amazon](https://www.amazon.es/s?k=Devilman+Gō+Nagai&tag=gragera-20)
+- 📖 **Mazinger Z** · Gō Nagai · [Amazon](https://www.amazon.es/s?k=Mazinger+Z+Gō+Nagai&tag=gragera-20)
+
+## AHD 272 - De tragaldabas monos y micénicos
+- 📺 **La casa del dragón** · HBO · [Amazon](https://www.amazon.es/s?k=La+casa+del+dragón+HBO&tag=gragera-20)
+- 📺 **Juego de tronos** · HBO · [Amazon](https://www.amazon.es/s?k=Juego+de+tronos+HBO&tag=gragera-20)
+- 📺 **Aquí hay dragones** · Rodrigo Cortés y Arturo González-Campos · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Rodrigo+Cortés+y+Arturo+González-Campos&tag=gragera-20)
+- 📚 **Carlos V** · No especificado · [Amazon](https://www.amazon.es/s?k=Carlos+V+No+especificado&tag=gragera-20)
+- 🎮 **Piedra, papel o tijera** · No especificado · [Amazon](https://www.amazon.es/s?k=Piedra,+papel+o+tijera+No+especificado&tag=gragera-20)
+
+## AHD 270 - De funerales feísmos y farragosidades
+- 📺 **La Casa del Dragón** · HBO · [Amazon](https://www.amazon.es/s?k=La+Casa+del+Dragón+HBO&tag=gragera-20)
+- 📺 **Juego de Tronos** · HBO · [Amazon](https://www.amazon.es/s?k=Juego+de+Tronos+HBO&tag=gragera-20)
+- 🎵 **Aquemarabilla** · Desconocido · [Amazon](https://www.amazon.es/s?k=Aquemarabilla+Desconocido&tag=gragera-20)
+- 📺 **Aquí hay dragones** · Desconocido · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Desconocido&tag=gragera-20)
+- 🎮 **Piedra, papel o tijera** · Desconocido · [Amazon](https://www.amazon.es/s?k=Piedra,+papel+o+tijera+Desconocido&tag=gragera-20)
+- 🎵 **Aunque tú no lo sepas** · Desconocido · [Amazon](https://www.amazon.es/s?k=Aunque+tú+no+lo+sepas+Desconocido&tag=gragera-20)
+- 📚 **Mortal y Fin** · Desconocido · [Amazon](https://www.amazon.es/s?k=Mortal+y+Fin+Desconocido&tag=gragera-20)
+
+## AHD 266 - De amigos gritos y juguetes
+- 🎬 **Rodrigo Cortés** · [Amazon](https://www.amazon.es/s?k=Rodrigo+Cortés&tag=gragera-20)
+
+## AHD 262 - AHD 262 De medallas jabalíes y lenguas
+- 📚 **Premio Nobel de Física** · Max von Laue · [Amazon](https://www.amazon.es/s?k=Premio+Nobel+de+Física+Max+von+Laue&tag=gragera-20)
+
+## AHD 260 - De castillos cuates y hombre
+- 🎬 **Tiburón** · Steven Spielberg · [Amazon](https://www.amazon.es/s?k=Tiburón+Steven+Spielberg&tag=gragera-20)
+- 🎬 **Los Tiburones** · [Amazon](https://www.amazon.es/s?k=Los+Tiburones&tag=gragera-20)
+- 📺 **Venga, adiós** · [Amazon](https://www.amazon.es/s?k=Venga,+adiós&tag=gragera-20)
+- 📺 **Castillos en el aire** · [Amazon](https://www.amazon.es/s?k=Castillos+en+el+aire&tag=gragera-20)
+
 ## AHD 26 - De la invención de Mariano palos y dientes
 - 📺 **Aquí hay dragones** · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones&tag=gragera-20)
 - 📚 **La rosa de Paracelso** · Jorge Luis Borges · [Amazon](https://www.amazon.es/s?k=La+rosa+de+Paracelso+Jorge+Luis+Borges&tag=gragera-20)
+
+## AHD 258 - De prótesis estafermos y vagabundos
+- 🎵 **Cantajuego** · [Amazon](https://www.amazon.es/s?k=Cantajuego&tag=gragera-20)
+- 🎵 **Antonio Flores** · Antonio Flores · [Amazon](https://www.amazon.es/s?k=Antonio+Flores+Antonio+Flores&tag=gragera-20)
+- 📚 **Leonardo da Vinci** · [Amazon](https://www.amazon.es/s?k=Leonardo+da+Vinci&tag=gragera-20)
+- 🎵 **La tuna renacentista** · [Amazon](https://www.amazon.es/s?k=La+tuna+renacentista&tag=gragera-20)
+
+## AHD 256 - De cabras almendras y regresos
+- 📺 **Aquí hay dragones** · Javier Cansado, Juan Gómez-Jurado, Arturo González-Campos · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Javier+Cansado,+Juan+Gómez-Jurado,+Arturo+González-Campos&tag=gragera-20)
+- 📚 **Walter Raleigh** · No especificado · [Amazon](https://www.amazon.es/s?k=Walter+Raleigh+No+especificado&tag=gragera-20)
+- 📚 **Francis Drake** · No especificado · [Amazon](https://www.amazon.es/s?k=Francis+Drake+No+especificado&tag=gragera-20)
+- 📚 **Horatio Nelson** · No especificado · [Amazon](https://www.amazon.es/s?k=Horatio+Nelson+No+especificado&tag=gragera-20)
 
 ## AHD 254 - De semillas cenizas y berenjenas
 - 📺 **Aquí hay dragones** · Podium Podcast · [Amazon](https://www.amazon.es/s?k=Aquí+hay+dragones+Podium+Podcast&tag=gragera-20)
